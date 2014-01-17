@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/10437/trunk/doc
+END
+BuildReport.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/6814/trunk/doc/BuildReport.txt
+END
+Test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/4666/trunk/doc/Test.txt
+END
+BugsFound.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/8319/trunk/doc/BugsFound.txt
+END
+ChangeLog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/6220/trunk/doc/ChangeLog.txt
+END
+Developing.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/9851/trunk/doc/Developing.txt
+END
+Configuration.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10375/trunk/doc/Configuration.txt
+END
+ConfigurationOptions.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10437/trunk/doc/ConfigurationOptions.txt
+END
+Profile.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/7263/trunk/doc/Profile.txt
+END
+StyleGuide.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/8463/trunk/doc/StyleGuide.txt
+END
+Mailing.txt
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/6015/trunk/doc/Mailing.txt
+END
+Benchmark.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/6807/trunk/doc/Benchmark.txt
+END

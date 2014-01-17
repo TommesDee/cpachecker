@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/scratch/sync_atomic_op
+END
+atomic_add_return_test.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/scratch/sync_atomic_op/atomic_add_return_test.cil.c
+END

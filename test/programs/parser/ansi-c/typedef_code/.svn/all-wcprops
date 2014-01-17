@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7682/trunk/test/programs/parser/ansi-c/typedef_code
+END
+mainTypedefCode.i
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7682/trunk/test/programs/parser/ansi-c/typedef_code/mainTypedefCode.i
+END
+test.desc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7682/trunk/test/programs/parser/ansi-c/typedef_code/test.desc
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7682/trunk/test/programs/parser/ansi-c/typedef_code/main.c
+END

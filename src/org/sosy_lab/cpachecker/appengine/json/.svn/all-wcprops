@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10395/trunk/src/org/sosy_lab/cpachecker/appengine/json
+END
+JobMixinAnnotations.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10394/trunk/src/org/sosy_lab/cpachecker/appengine/json/JobMixinAnnotations.java
+END
+JobFileMixinAnnotations.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10394/trunk/src/org/sosy_lab/cpachecker/appengine/json/JobFileMixinAnnotations.java
+END
+JobsResourceJSONModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10395/trunk/src/org/sosy_lab/cpachecker/appengine/json/JobsResourceJSONModule.java
+END

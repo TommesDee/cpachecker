@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/7042/trunk/test/original-sources/VerisecSuite/sendmail/progs
+END
+sendmailCVE-1999-0047mime7to8_mime7to8_arr_one_char_heavy_test_ok.c
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/5551/trunk/test/original-sources/VerisecSuite/sendmail/progs/sendmailCVE-1999-0047mime7to8_mime7to8_arr_one_char_heavy_test_ok.c
+END
+sendmailCVE-2001-0653complete_tTflag-ok.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/7042/trunk/test/original-sources/VerisecSuite/sendmail/progs/sendmailCVE-2001-0653complete_tTflag-ok.c
+END
+sendmailCVE-2001-0653complete_tTflag-bad.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/7042/trunk/test/original-sources/VerisecSuite/sendmail/progs/sendmailCVE-2001-0653complete_tTflag-bad.c
+END
+sendmailCVE-1999-0047mime7to8_mime7to8_arr_one_char_heavy_test_bad.c
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/5551/trunk/test/original-sources/VerisecSuite/sendmail/progs/sendmailCVE-1999-0047mime7to8_mime7to8_arr_one_char_heavy_test_bad.c
+END
+sendmail.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/7042/trunk/test/original-sources/VerisecSuite/sendmail/progs/sendmail.h
+END
+my-main.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/7042/trunk/test/original-sources/VerisecSuite/sendmail/progs/my-main.c
+END

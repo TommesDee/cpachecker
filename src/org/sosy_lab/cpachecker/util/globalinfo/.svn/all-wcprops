@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7055/trunk/src/org/sosy_lab/cpachecker/util/globalinfo
+END
+AutomatonInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/7055/trunk/src/org/sosy_lab/cpachecker/util/globalinfo/AutomatonInfo.java
+END
+CFAInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7055/trunk/src/org/sosy_lab/cpachecker/util/globalinfo/CFAInfo.java
+END
+GlobalInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/7055/trunk/src/org/sosy_lab/cpachecker/util/globalinfo/GlobalInfo.java
+END

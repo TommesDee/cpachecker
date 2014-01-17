@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5543/trunk/src/org/sosy_lab/cpachecker/util/invariants/interfaces
+END
+Constraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/5543/trunk/src/org/sosy_lab/cpachecker/util/invariants/interfaces/Constraint.java
+END
+Template.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/5543/trunk/src/org/sosy_lab/cpachecker/util/invariants/interfaces/Template.java
+END
+GeneralVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5543/trunk/src/org/sosy_lab/cpachecker/util/invariants/interfaces/GeneralVariable.java
+END
+VariableManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/5543/trunk/src/org/sosy_lab/cpachecker/util/invariants/interfaces/VariableManager.java
+END

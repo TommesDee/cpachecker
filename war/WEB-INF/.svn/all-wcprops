@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/10418/trunk/war/WEB-INF
+END
+appengine-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10293/trunk/war/WEB-INF/appengine-web.xml
+END
+queue.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10196/trunk/war/WEB-INF/queue.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/10333/trunk/war/WEB-INF/web.xml
+END
+default-options.properties
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10393/trunk/war/WEB-INF/default-options.properties
+END

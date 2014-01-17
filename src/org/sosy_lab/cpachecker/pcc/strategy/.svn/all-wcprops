@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10338/trunk/src/org/sosy_lab/cpachecker/pcc/strategy
+END
+ARG_CPAStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/pcc/strategy/ARG_CPAStrategy.java
+END
+ARGProofCheckerStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/pcc/strategy/ARGProofCheckerStrategy.java
+END
+PCCStrategyBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9392/trunk/src/org/sosy_lab/cpachecker/pcc/strategy/PCCStrategyBuilder.java
+END
+AbstractStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10338/trunk/src/org/sosy_lab/cpachecker/pcc/strategy/AbstractStrategy.java
+END
+PartialReachedSetStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9390/trunk/src/org/sosy_lab/cpachecker/pcc/strategy/PartialReachedSetStrategy.java
+END
+ReachedSetStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/pcc/strategy/ReachedSetStrategy.java
+END

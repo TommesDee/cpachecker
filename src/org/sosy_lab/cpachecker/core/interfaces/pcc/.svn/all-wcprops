@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9391/trunk/src/org/sosy_lab/cpachecker/core/interfaces/pcc
+END
+PropertyChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/7861/trunk/src/org/sosy_lab/cpachecker/core/interfaces/pcc/PropertyChecker.java
+END
+PCCStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8087/trunk/src/org/sosy_lab/cpachecker/core/interfaces/pcc/PCCStrategy.java
+END
+ProofChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/core/interfaces/pcc/ProofChecker.java
+END
+BalancedGraphPartitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9391/trunk/src/org/sosy_lab/cpachecker/core/interfaces/pcc/BalancedGraphPartitioner.java
+END

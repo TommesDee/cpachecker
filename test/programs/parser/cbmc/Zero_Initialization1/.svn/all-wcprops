@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/Zero_Initialization1
+END
+Zero_Initialization1.i
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/Zero_Initialization1/Zero_Initialization1.i
+END
+test.desc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/Zero_Initialization1/test.desc
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/Zero_Initialization1/main.c
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8487/trunk/src/org/sosy_lab/cpachecker/cfa/types/java
+END
+JBasicType.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cfa/types/java/JBasicType.java
+END
+JNullType.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8325/trunk/src/org/sosy_lab/cpachecker/cfa/types/java/JNullType.java
+END
+JReferenceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cfa/types/java/JReferenceType.java
+END
+JConstructorType.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8325/trunk/src/org/sosy_lab/cpachecker/cfa/types/java/JConstructorType.java
+END
+JArrayType.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8487/trunk/src/org/sosy_lab/cpachecker/cfa/types/java/JArrayType.java
+END
+JInterfaceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8403/trunk/src/org/sosy_lab/cpachecker/cfa/types/java/JInterfaceType.java
+END
+JClassType.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8327/trunk/src/org/sosy_lab/cpachecker/cfa/types/java/JClassType.java
+END
+JSimpleType.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8487/trunk/src/org/sosy_lab/cpachecker/cfa/types/java/JSimpleType.java
+END
+JMethodType.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8325/trunk/src/org/sosy_lab/cpachecker/cfa/types/java/JMethodType.java
+END
+JType.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cfa/types/java/JType.java
+END
+JClassOrInterfaceType.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8403/trunk/src/org/sosy_lab/cpachecker/cfa/types/java/JClassOrInterfaceType.java
+END

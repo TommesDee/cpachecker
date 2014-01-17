@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10126/trunk/src/org/sosy_lab/cpachecker/util/invariants
+END
+GraphUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7621/trunk/src/org/sosy_lab/cpachecker/util/invariants/GraphUtil.java
+END
+Rational.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7624/trunk/src/org/sosy_lab/cpachecker/util/invariants/Rational.java
+END
+Variable.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7618/trunk/src/org/sosy_lab/cpachecker/util/invariants/Variable.java
+END
+Coeff.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/7621/trunk/src/org/sosy_lab/cpachecker/util/invariants/Coeff.java
+END
+Farkas.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7621/trunk/src/org/sosy_lab/cpachecker/util/invariants/Farkas.java
+END
+FMtester.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10126/trunk/src/org/sosy_lab/cpachecker/util/invariants/FMtester.java
+END
+InfixReln.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5543/trunk/src/org/sosy_lab/cpachecker/util/invariants/InfixReln.java
+END
+LinearInequality.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7622/trunk/src/org/sosy_lab/cpachecker/util/invariants/LinearInequality.java
+END
+TFtester.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7031/trunk/src/org/sosy_lab/cpachecker/util/invariants/TFtester.java
+END

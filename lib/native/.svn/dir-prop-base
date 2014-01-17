@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 65
+.hg*
+build.properties
+META-INF*
+lib*
+.classpath
+*.jar
+nativeLib*
+
+END

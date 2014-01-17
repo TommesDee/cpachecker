@@ -1,0 +1,7 @@
+K 13
+svn:externals
+V 80
+https://svn.sosy-lab.org/software/sv-benchmarks/branches/selected/c benchmarks
+
+
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10285/trunk/src/org/sosy_lab/cpachecker/util/predicates/interfaces/view
+END
+AbstractBaseManagerView.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/8013/trunk/src/org/sosy_lab/cpachecker/util/predicates/interfaces/view/AbstractBaseManagerView.java
+END
+FormulaManagerView.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10285/trunk/src/org/sosy_lab/cpachecker/util/predicates/interfaces/view/FormulaManagerView.java
+END
+BitvectorFormulaManagerView.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/9274/trunk/src/org/sosy_lab/cpachecker/util/predicates/interfaces/view/BitvectorFormulaManagerView.java
+END
+RationalFormulaManagerView.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/9104/trunk/src/org/sosy_lab/cpachecker/util/predicates/interfaces/view/RationalFormulaManagerView.java
+END
+FunctionFormulaManagerView.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/7603/trunk/src/org/sosy_lab/cpachecker/util/predicates/interfaces/view/FunctionFormulaManagerView.java
+END
+BooleanFormulaManagerView.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/8789/trunk/src/org/sosy_lab/cpachecker/util/predicates/interfaces/view/BooleanFormulaManagerView.java
+END
+BaseManagerView.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/8013/trunk/src/org/sosy_lab/cpachecker/util/predicates/interfaces/view/BaseManagerView.java
+END

@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 105
+AutomatonParser.java
+AutomatonScanner.java
+AutomatonSym.java
+ObserverAnalysisAutomatedTests.java
+tmp.txt
+
+END

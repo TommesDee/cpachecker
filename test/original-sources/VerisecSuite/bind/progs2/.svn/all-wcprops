@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5551/trunk/test/original-sources/VerisecSuite/bind/progs2
+END
+bindCVE-2001-0011nslookupComplain_big_ok.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/5551/trunk/test/original-sources/VerisecSuite/bind/progs2/bindCVE-2001-0011nslookupComplain_big_ok.c
+END
+bindCVE-2001-0011nslookupComplain_big_bad.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/5551/trunk/test/original-sources/VerisecSuite/bind/progs2/bindCVE-2001-0011nslookupComplain_big_bad.c
+END

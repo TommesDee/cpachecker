@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8866/trunk/src/org/sosy_lab/cpachecker/util/predicates/bdd
+END
+BDDRegionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8866/trunk/src/org/sosy_lab/cpachecker/util/predicates/bdd/BDDRegionManager.java
+END
+BDDRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8191/trunk/src/org/sosy_lab/cpachecker/util/predicates/bdd/BDDRegion.java
+END

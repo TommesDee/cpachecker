@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/7042/trunk/plugin/CPAclipse/feature/org.sosy_lab.cpachecker.plugin.eclipse.cpaclipse.feature
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/7042/trunk/plugin/CPAclipse/feature/org.sosy_lab.cpachecker.plugin.eclipse.cpaclipse.feature/build.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1609/trunk/plugin/CPAclipse/feature/org.sosy_lab.cpachecker.plugin.eclipse.cpaclipse.feature/.project
+END
+feature.xml
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1810/trunk/plugin/CPAclipse/feature/org.sosy_lab.cpachecker.plugin.eclipse.cpaclipse.feature/feature.xml
+END

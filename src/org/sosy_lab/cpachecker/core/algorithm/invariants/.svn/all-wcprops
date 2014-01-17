@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10293/trunk/src/org/sosy_lab/cpachecker/core/algorithm/invariants
+END
+CPAInvariantGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10293/trunk/src/org/sosy_lab/cpachecker/core/algorithm/invariants/CPAInvariantGenerator.java
+END
+DoNothingInvariantGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/8599/trunk/src/org/sosy_lab/cpachecker/core/algorithm/invariants/DoNothingInvariantGenerator.java
+END
+InvariantGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8598/trunk/src/org/sosy_lab/cpachecker/core/algorithm/invariants/InvariantGenerator.java
+END

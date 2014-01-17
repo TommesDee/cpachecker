@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10438/trunk/src/org/sosy_lab/cpachecker/cpa/invariants
+END
+ExpressionToStateVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9904/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/ExpressionToStateVisitor.java
+END
+CompoundInterval.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10106/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/CompoundInterval.java
+END
+NonRecursiveEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9950/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/NonRecursiveEnvironment.java
+END
+InvariantsState.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10438/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/InvariantsState.java
+END
+InvariantsPrecision.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10437/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/InvariantsPrecision.java
+END
+InvariantsTransferRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10009/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/InvariantsTransferRelation.java
+END
+SimpleIntervalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8422/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/SimpleIntervalTest.java
+END
+InvariantsDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9950/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/InvariantsDomain.java
+END
+SimpleInterval.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8422/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/SimpleInterval.java
+END
+InvariantsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8762/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/InvariantsWriter.java
+END
+InvariantsTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9904/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/InvariantsTestSuite.java
+END
+CompoundIntervalTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/9940/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/CompoundIntervalTest.java
+END
+InvariantsCPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10437/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/InvariantsCPA.java
+END

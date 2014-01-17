@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/9808/trunk/test/config/automata
+END
+LockingAutomatonExactMatch.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6635/trunk/test/config/automata/LockingAutomatonExactMatch.txt
+END
+ParserTestingAutomaton.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1681/trunk/test/config/automata/ParserTestingAutomaton.txt
+END
+defaultSpecificationForTesting.spc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9808/trunk/test/config/automata/defaultSpecificationForTesting.spc
+END
+UninitializedVariablesTestAutomaton.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1682/trunk/test/config/automata/UninitializedVariablesTestAutomaton.txt
+END
+InteractionAutomatonA.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1681/trunk/test/config/automata/InteractionAutomatonA.txt
+END
+InteractionAutomatonB.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1682/trunk/test/config/automata/InteractionAutomatonB.txt
+END
+ExplicitAnalysisObservingAutomaton.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/3907/trunk/test/config/automata/ExplicitAnalysisObservingAutomaton.txt
+END
+LockingAutomatonAll.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6635/trunk/test/config/automata/LockingAutomatonAll.txt
+END
+modifyingAutomaton.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8212/trunk/test/config/automata/modifyingAutomaton.txt
+END
+LoopAutomaton.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1681/trunk/test/config/automata/LoopAutomaton.txt
+END
+LockingAutomatonRegEx.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6635/trunk/test/config/automata/LockingAutomatonRegEx.txt
+END
+FunctionIdentifyingAutomaton.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1682/trunk/test/config/automata/FunctionIdentifyingAutomaton.txt
+END
+UninitializedVariablesObservingAutomaton.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6082/trunk/test/config/automata/UninitializedVariablesObservingAutomaton.txt
+END
+LockingAutomatonAstComp.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1681/trunk/test/config/automata/LockingAutomatonAstComp.txt
+END
+defaultSpecification.spc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9808/trunk/test/config/automata/defaultSpecification.spc
+END
+PrintLastStatementAutomaton.spc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2215/trunk/test/config/automata/PrintLastStatementAutomaton.spc
+END
+simple_setuid.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2215/trunk/test/config/automata/simple_setuid.txt
+END

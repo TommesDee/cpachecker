@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/8321/trunk/scripts/tempita
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6379/trunk/scripts/tempita/Readme.txt
+END
+compat3.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/7042/trunk/scripts/tempita/compat3.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8321/trunk/scripts/tempita/__init__.py
+END
+_looper.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/7042/trunk/scripts/tempita/_looper.py
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8590/trunk/test/programs/simple/multipleCFiles/equalNamedTypes_save
+END
+func.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8590/trunk/test/programs/simple/multipleCFiles/equalNamedTypes_save/func.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8590/trunk/test/programs/simple/multipleCFiles/equalNamedTypes_save/main.c
+END
+EqualNamedTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8528/trunk/test/programs/simple/multipleCFiles/equalNamedTypes_save/EqualNamedTypes.h
+END

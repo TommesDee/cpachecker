@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5551/trunk/test/original-sources/VerisecSuite/bind/progs1
+END
+bindCA-1999-14rrextract-nxt_simp_ok.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5551/trunk/test/original-sources/VerisecSuite/bind/progs1/bindCA-1999-14rrextract-nxt_simp_ok.c
+END
+bindCA-1999-14rrextract-nxt_two_expands_ok.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/5551/trunk/test/original-sources/VerisecSuite/bind/progs1/bindCA-1999-14rrextract-nxt_two_expands_ok.c
+END
+bindCA-1999-14rrextract-nxt_expands_vars_bad.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/5551/trunk/test/original-sources/VerisecSuite/bind/progs1/bindCA-1999-14rrextract-nxt_expands_vars_bad.c
+END
+bindCA-1999-14rrextract-nxt_expands_vars_ok.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5551/trunk/test/original-sources/VerisecSuite/bind/progs1/bindCA-1999-14rrextract-nxt_expands_vars_ok.c
+END
+bindCA-1999-14rrextract-nxt_two_expands_bad.c
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5551/trunk/test/original-sources/VerisecSuite/bind/progs1/bindCA-1999-14rrextract-nxt_two_expands_bad.c
+END
+bindCA-1999-14rrextract-nxt_simp_bad.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/5551/trunk/test/original-sources/VerisecSuite/bind/progs1/bindCA-1999-14rrextract-nxt_simp_bad.c
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/8013/trunk/src/org/sosy_lab/cpachecker/core/interfaces/conditions
+END
+AssumptionReportingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/core/interfaces/conditions/AssumptionReportingState.java
+END
+AvoidanceReportingState.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/8013/trunk/src/org/sosy_lab/cpachecker/core/interfaces/conditions/AvoidanceReportingState.java
+END
+AdjustableConditionCPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/core/interfaces/conditions/AdjustableConditionCPA.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/Endianness6
+END
+test.desc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/Endianness6/test.desc
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/Endianness6/main.c
+END
+Endianness6.i
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/Endianness6/Endianness6.i
+END

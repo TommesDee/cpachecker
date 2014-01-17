@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/core/algorithm/impact
+END
+ImpactAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/core/algorithm/impact/ImpactAlgorithm.java
+END
+Vertex.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/core/algorithm/impact/Vertex.java
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10411/trunk/src/org/sosy_lab/cpachecker/util
+END
+AbstractWrappedStateVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/6175/trunk/src/org/sosy_lab/cpachecker/util/AbstractWrappedStateVisitor.java
+END
+CFATraversal.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/8623/trunk/src/org/sosy_lab/cpachecker/util/CFATraversal.java
+END
+CPAs.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8851/trunk/src/org/sosy_lab/cpachecker/util/CPAs.java
+END
+StaticRefiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/8751/trunk/src/org/sosy_lab/cpachecker/util/StaticRefiner.java
+END
+Precisions.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7608/trunk/src/org/sosy_lab/cpachecker/util/Precisions.java
+END
+AbstractStates.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/8557/trunk/src/org/sosy_lab/cpachecker/util/AbstractStates.java
+END
+CFAUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10082/trunk/src/org/sosy_lab/cpachecker/util/CFAUtils.java
+END
+GraphUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7602/trunk/src/org/sosy_lab/cpachecker/util/GraphUtils.java
+END
+VariableClassification.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10285/trunk/src/org/sosy_lab/cpachecker/util/VariableClassification.java
+END
+NativeLibraries.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10285/trunk/src/org/sosy_lab/cpachecker/util/NativeLibraries.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/BV_Arithmetic4
+END
+BV_Arithmetic4.i
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/BV_Arithmetic4/BV_Arithmetic4.i
+END
+test.desc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/BV_Arithmetic4/test.desc
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/BV_Arithmetic4/main.c
+END

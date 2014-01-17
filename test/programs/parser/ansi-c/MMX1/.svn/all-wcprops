@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7682/trunk/test/programs/parser/ansi-c/MMX1
+END
+test.desc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/7682/trunk/test/programs/parser/ansi-c/MMX1/test.desc
+END
+mainMMX1.i
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7682/trunk/test/programs/parser/ansi-c/MMX1/mainMMX1.i
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7682/trunk/test/programs/parser/ansi-c/MMX1/main.c
+END

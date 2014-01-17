@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 91
+java
+java-contrib
+java-benchmark
+appengine-java-sdk-1.8.8
+appengine-java-sdk-1.8.8.zip
+gae
+
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/core/waitlist
+END
+ReversePostorderSortedWaitlist.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/core/waitlist/ReversePostorderSortedWaitlist.java
+END
+CallstackSortedWaitlist.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/core/waitlist/CallstackSortedWaitlist.java
+END
+RandomWaitlist.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/core/waitlist/RandomWaitlist.java
+END
+AbstractWaitlist.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/core/waitlist/AbstractWaitlist.java
+END
+SimpleWaitlist.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/core/waitlist/SimpleWaitlist.java
+END
+ExplicitSortedWaitlist.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/core/waitlist/ExplicitSortedWaitlist.java
+END
+Waitlist.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/core/waitlist/Waitlist.java
+END
+AbstractSortedWaitlist.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/core/waitlist/AbstractSortedWaitlist.java
+END

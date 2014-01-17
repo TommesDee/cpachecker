@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/Pointer_Arithmetic7
+END
+Pointer_Arithmetic7.i
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/Pointer_Arithmetic7/Pointer_Arithmetic7.i
+END
+test.desc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/Pointer_Arithmetic7/test.desc
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/Pointer_Arithmetic7/main.c
+END

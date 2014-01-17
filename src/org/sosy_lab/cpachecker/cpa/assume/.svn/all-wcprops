@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cpa/assume
+END
+AssumeDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cpa/assume/AssumeDomain.java
+END
+ConstrainedAssumeState.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cpa/assume/ConstrainedAssumeState.java
+END
+AssumeCPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cpa/assume/AssumeCPA.java
+END
+AssumeTopState.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cpa/assume/AssumeTopState.java
+END
+UnconstrainedAssumeState.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cpa/assume/UnconstrainedAssumeState.java
+END
+AssumeState.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cpa/assume/AssumeState.java
+END
+AssumeTransferRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cpa/assume/AssumeTransferRelation.java
+END

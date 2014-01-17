@@ -1,0 +1,32 @@
+K 13
+svn:mergeinfo
+V 2255
+/branches/BDD-cegar/config/predicateAnalysis-invariants.properties:7676-8244
+/branches/abe/config/predicateAnalysis-invariants.properties:1436-1440
+/branches/abm/config/predicateAnalysis-invariants.properties:3268-3529
+/branches/ast/config/predicateAnalysis-invariants.properties:2052-3110
+/branches/cfa/config/predicateAnalysis-invariants.properties:4741-5293
+/branches/cfa_simplification/config/predicateAnalysis-invariants.properties:8135-8154
+/branches/cfafunctionbuilder/config/predicateAnalysis-invariants.properties:6766-6798
+/branches/counterexample-info/config/predicateAnalysis-invariants.properties:4219-4236
+/branches/dynPrecAdj/config/predicateAnalysis-invariants.properties:4927-5154
+/branches/explicit/config/predicateAnalysis-invariants.properties:5462-5470,5473-5502,5511-5525,5539-5540
+/branches/explicit_interpolation/config/predicateAnalysis-invariants.properties:6415-6523
+/branches/forced-covering/config/predicateAnalysis-invariants.properties:5967-6157
+/branches/gae-port/config/predicateAnalysis-Invariants-2.properties:9945-10091
+/branches/generic_pcc/config/predicateAnalysis-invariants.properties:5552-5653
+/branches/globalrefinement/config/predicateAnalysis-invariants.properties:6677-6942
+/branches/graceful-shutdown/config/predicateAnalysis-invariants.properties:8797-8845
+/branches/impact/config/predicateAnalysis-invariants.properties:5363-5806
+/branches/ivy/config/predicateAnalysis-invariants.properties:4576-4890
+/branches/java/config/predicateAnalysis-invariants.properties:6176-7019
+/branches/kaeufl/config/predicateAnalysis-invariants.properties:3640-3795
+/branches/lazy-abstractions/config/predicateAnalysis-invariants.properties:1853-2418
+/branches/pcc/config/predicateAnalysis-invariants.properties:4585-5258
+/branches/predicateAnalysisWithUF/config/predicateAnalysis-invariants.properties:8888-9053
+/branches/rawsignature-removal/config/predicateAnalysis-invariants.properties:5138-5172
+/branches/smtInterpol/config/predicateAnalysis-invariants.properties:5434-6057
+/branches/stopoperator/config/predicateAnalysis-invariants.properties:4280-4295
+/branches/wendler/config/predicateAnalysis-invariants.properties:1869-1911,1913-1928
+/branches/z3_integration/config/predicateAnalysis-invariants.properties:7716-8681
+END

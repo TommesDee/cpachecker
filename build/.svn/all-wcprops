@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/9857/trunk/build
+END
+build-parser.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/9857/trunk/build/build-parser.xml
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/7026/trunk/build/Doxyfile
+END
+Ant Builder.launch
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/8637/trunk/build/Ant%20Builder.launch
+END

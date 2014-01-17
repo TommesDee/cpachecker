@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10425/trunk/src/org/sosy_lab/cpachecker/appengine/server
+END
+CPAcheckerApplication.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10348/trunk/src/org/sosy_lab/cpachecker/appengine/server/CPAcheckerApplication.java
+END
+CapabilitiesFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10348/trunk/src/org/sosy_lab/cpachecker/appengine/server/CapabilitiesFilter.java
+END

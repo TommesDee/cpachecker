@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5551/trunk/test/programs/freeradius
+END
+valuepair.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/5551/trunk/test/programs/freeradius/valuepair.c
+END
+rlm_eap_tls.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5551/trunk/test/programs/freeradius/rlm_eap_tls.cil.c
+END
+auth.c-2
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1248/trunk/test/programs/freeradius/auth.c-2
+END
+auth.cil-2
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1248/trunk/test/programs/freeradius/auth.cil-2
+END
+auth.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/5551/trunk/test/programs/freeradius/auth.cil.c
+END
+valuepair.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5551/trunk/test/programs/freeradius/valuepair.cil.c
+END
+testfiles-freeradius.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1375/trunk/test/programs/freeradius/testfiles-freeradius.txt
+END
+rlm_eap_tls.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5551/trunk/test/programs/freeradius/rlm_eap_tls.c
+END
+auth.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5551/trunk/test/programs/freeradius/auth.c
+END

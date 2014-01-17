@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/util/predicates/logging
+END
+LoggingInterpolatingProverEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/util/predicates/logging/LoggingInterpolatingProverEnvironment.java
+END
+LoggingProverEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/util/predicates/logging/LoggingProverEnvironment.java
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/10432/trunk/scripts
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/7183/trunk/scripts/Readme.txt
+END
+benchmark-result.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/7532/trunk/scripts/benchmark-result.dtd
+END
+table-generator.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10406/trunk/scripts/table-generator.py
+END
+benchmark.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/8846/trunk/scripts/benchmark.dtd
+END
+table-generator-template.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10399/trunk/scripts/table-generator-template.html
+END
+report-template.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9928/trunk/scripts/report-template.html
+END
+benchmark.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10373/trunk/scripts/benchmark.py
+END
+table-generator.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/7188/trunk/scripts/table-generator.dtd
+END
+cpa.bat
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/9851/trunk/scripts/cpa.bat
+END
+table-generator-template.csv
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7187/trunk/scripts/table-generator-template.csv
+END
+report-generator.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8387/trunk/scripts/report-generator.py
+END
+gen-coverage-report.pl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8727/trunk/scripts/gen-coverage-report.pl
+END
+cloudRunexecutor.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10334/trunk/scripts/cloudRunexecutor.py
+END
+cpa.sh
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/8438/trunk/scripts/cpa.sh
+END

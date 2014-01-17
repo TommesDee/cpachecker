@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10418/trunk/war/WEB-INF/templates
+END
+root.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10418/trunk/war/WEB-INF/templates/root.ftl
+END
+jobs.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10409/trunk/war/WEB-INF/templates/jobs.ftl
+END
+_footer.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10152/trunk/war/WEB-INF/templates/_footer.ftl
+END
+_header.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10299/trunk/war/WEB-INF/templates/_header.ftl
+END
+job.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10409/trunk/war/WEB-INF/templates/job.ftl
+END

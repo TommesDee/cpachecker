@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10323/trunk/src/org/sosy_lab/cpachecker/util/predicates
+END
+AbstractionFormula.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/9107/trunk/src/org/sosy_lab/cpachecker/util/predicates/AbstractionFormula.java
+END
+PathChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10323/trunk/src/org/sosy_lab/cpachecker/util/predicates/PathChecker.java
+END
+NamedRegionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/8866/trunk/src/org/sosy_lab/cpachecker/util/predicates/NamedRegionManager.java
+END
+AbstractionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/8866/trunk/src/org/sosy_lab/cpachecker/util/predicates/AbstractionManager.java
+END
+SymbolicRegionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/8866/trunk/src/org/sosy_lab/cpachecker/util/predicates/SymbolicRegionManager.java
+END
+FormulaMeasuring.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8643/trunk/src/org/sosy_lab/cpachecker/util/predicates/FormulaMeasuring.java
+END
+Solver.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/util/predicates/Solver.java
+END
+FormulaManagerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/util/predicates/FormulaManagerFactory.java
+END
+AbstractionPredicate.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7031/trunk/src/org/sosy_lab/cpachecker/util/predicates/AbstractionPredicate.java
+END

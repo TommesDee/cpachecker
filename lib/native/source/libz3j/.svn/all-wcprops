@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/8682/trunk/lib/native/source/libz3j
+END
+compile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8682/trunk/lib/native/source/libz3j/compile.sh
+END
+buildZ3wrapper.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8682/trunk/lib/native/source/libz3j/buildZ3wrapper.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/8682/trunk/lib/native/source/libz3j/README
+END

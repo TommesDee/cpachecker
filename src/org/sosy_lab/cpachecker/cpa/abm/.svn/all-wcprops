@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/cpa/abm
+END
+ABMMergeOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/cpa/abm/ABMMergeOperator.java
+END
+ABMPrecisionAdjustment.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/cpa/abm/ABMPrecisionAdjustment.java
+END
+AbstractABMBasedRefiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8373/trunk/src/org/sosy_lab/cpachecker/cpa/abm/AbstractABMBasedRefiner.java
+END
+ABMCPAStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8722/trunk/src/org/sosy_lab/cpachecker/cpa/abm/ABMCPAStatistics.java
+END
+ABMCPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/cpa/abm/ABMCPA.java
+END
+ABMARGUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/8177/trunk/src/org/sosy_lab/cpachecker/cpa/abm/ABMARGUtils.java
+END
+TimedReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cpa/abm/TimedReducer.java
+END
+RecursiveAnalysisFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cpa/abm/RecursiveAnalysisFailedException.java
+END
+ABMTransferRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/cpa/abm/ABMTransferRelation.java
+END
+ABMStopOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/cpa/abm/ABMStopOperator.java
+END
+ABMARGBlockStartState.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8073/trunk/src/org/sosy_lab/cpachecker/cpa/abm/ABMARGBlockStartState.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/Float5
+END
+Float5.i
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/Float5/Float5.i
+END
+test.desc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/Float5/test.desc
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/Float5/main.c
+END

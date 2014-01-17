@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10285/trunk/src/org/sosy_lab/cpachecker/cpa/seplogic
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9827/trunk/src/org/sosy_lab/cpachecker/cpa/seplogic/README.txt
+END
+SeplogicPrecisionAdjustment.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9827/trunk/src/org/sosy_lab/cpachecker/cpa/seplogic/SeplogicPrecisionAdjustment.java
+END
+SeplogicTransferRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9900/trunk/src/org/sosy_lab/cpachecker/cpa/seplogic/SeplogicTransferRelation.java
+END
+SeplogicCPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9900/trunk/src/org/sosy_lab/cpachecker/cpa/seplogic/SeplogicCPA.java
+END
+SeplogicDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9827/trunk/src/org/sosy_lab/cpachecker/cpa/seplogic/SeplogicDomain.java
+END
+SeplogicEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9827/trunk/src/org/sosy_lab/cpachecker/cpa/seplogic/SeplogicEnvironment.java
+END
+SeplogicState.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9828/trunk/src/org/sosy_lab/cpachecker/cpa/seplogic/SeplogicState.java
+END

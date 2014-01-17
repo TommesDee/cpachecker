@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5551/trunk/test/programs/nested
+END
+nested2.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5551/trunk/test/programs/nested/nested2.c
+END
+nested3.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5551/trunk/test/programs/nested/nested3.c
+END
+nested4.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5551/trunk/test/programs/nested/nested4.c
+END
+nested5.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5551/trunk/test/programs/nested/nested5.c
+END
+nested1_BUG.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5551/trunk/test/programs/nested/nested1_BUG.c
+END
+nested6.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5551/trunk/test/programs/nested/nested6.c
+END
+nested1.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5551/trunk/test/programs/nested/nested1.cil.c
+END
+nested2.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5551/trunk/test/programs/nested/nested2.cil.c
+END
+nested3.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5551/trunk/test/programs/nested/nested3.cil.c
+END
+nested4.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5551/trunk/test/programs/nested/nested4.cil.c
+END
+nested5.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5551/trunk/test/programs/nested/nested5.cil.c
+END
+nested6.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/5551/trunk/test/programs/nested/nested6.cil.c
+END
+nested1_BUG.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/3530/trunk/test/programs/nested/nested1_BUG.cil.c
+END
+nested1.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/5551/trunk/test/programs/nested/nested1.c
+END

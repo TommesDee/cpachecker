@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8731/trunk/src/org/sosy_lab/cpachecker/util/statistics
+END
+StatisticsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8696/trunk/src/org/sosy_lab/cpachecker/util/statistics/StatisticsUtils.java
+END
+StatInt.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8663/trunk/src/org/sosy_lab/cpachecker/util/statistics/StatInt.java
+END
+AbstractStatValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8731/trunk/src/org/sosy_lab/cpachecker/util/statistics/AbstractStatValue.java
+END
+StatKind.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8642/trunk/src/org/sosy_lab/cpachecker/util/statistics/StatKind.java
+END
+StatCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8663/trunk/src/org/sosy_lab/cpachecker/util/statistics/StatCounter.java
+END
+StatisticsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8664/trunk/src/org/sosy_lab/cpachecker/util/statistics/StatisticsWriter.java
+END
+AbstractStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/8662/trunk/src/org/sosy_lab/cpachecker/util/statistics/AbstractStatistics.java
+END
+StatTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8663/trunk/src/org/sosy_lab/cpachecker/util/statistics/StatTimer.java
+END

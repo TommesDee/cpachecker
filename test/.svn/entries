@@ -1,0 +1,86 @@
+10
+
+dir
+10441
+http://cpachecker.googlecode.com/svn/trunk/test
+http://cpachecker.googlecode.com/svn
+
+
+
+2014-01-17T08:54:54.186045Z
+10440
+pwendler
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+41196385-3f91-0a04-7ed0-9b10001875f6
+
+Readme.txt
+file
+
+
+
+
+2014-01-17T12:57:17.532000Z
+75b5b1ef168be8b02df6570a89909f6d
+2011-04-20T08:08:48.208243Z
+3331
+pwendler
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+702
+
+assumptions
+dir
+
+config
+dir
+
+expected-results
+dir
+
+original-sources
+dir
+
+programs
+dir
+
+results
+dir
+
+test-sets
+dir
+
+testcase-generators
+dir
+

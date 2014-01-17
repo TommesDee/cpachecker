@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog
+END
+nxt-bad_BUG.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/nxt-bad_BUG.cil.c
+END
+make-long-path.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/make-long-path.cil.c
+END
+call-realpath-ok.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/call-realpath-ok.cil.c
+END
+crackaddr-bad_BUG.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/crackaddr-bad_BUG.cil.c
+END
+main.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/main.cil.c
+END
+my-main.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/my-main.cil.c
+END
+tTflag-ok.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/tTflag-ok.cil.c
+END
+crackaddr-ok.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/crackaddr-ok.cil.c
+END
+realpath-2.4.2-bad_BUG.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/realpath-2.4.2-bad_BUG.cil.c
+END
+my-util.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/my-util.cil.c
+END
+call_fb_realpath.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/call_fb_realpath.cil.c
+END
+main-bad_BUG.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/main-bad_BUG.cil.c
+END
+ns-lookup-ok.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/ns-lookup-ok.cil.c
+END
+util-ok.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/util-ok.cil.c
+END
+mime1-bad_BUG.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/mime1-bad_BUG.cil.c
+END
+create_address_file.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/create_address_file.cil.c
+END
+mime2-bad_BUG.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/mime2-bad_BUG.cil.c
+END
+mime2-ok.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/mime2-ok.cil.c
+END
+iquery-bad_BUG.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/iquery-bad_BUG.cil.c
+END
+mapped-path-bad_BUG.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/mapped-path-bad_BUG.cil.c
+END
+txt-dns-file-ok.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/txt-dns-file-ok.cil.c
+END
+util-bad_BUG.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/util-bad_BUG.cil.c
+END
+ns-lookup-bad_BUG.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/ns-lookup-bad_BUG.cil.c
+END
+recipient-ok.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/recipient-ok.cil.c
+END
+realpath-bad_BUG.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/realpath-bad_BUG.cil.c
+END
+realpath-2.4.2-ok.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/realpath-2.4.2-ok.cil.c
+END
+sig-ok.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/sig-ok.cil.c
+END
+tTflag-bad_BUG.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/tTflag-bad_BUG.cil.c
+END
+prescan-overflow-ok.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/prescan-overflow-ok.cil.c
+END
+prescan-overflow-bad_BUG.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/prescan-overflow-bad_BUG.cil.c
+END
+create_msg_file.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/create_msg_file.cil.c
+END
+sig-bad_BUG.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/sig-bad_BUG.cil.c
+END
+call-realpath-bad_BUG.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/call-realpath-bad_BUG.cil.c
+END
+nxt-ok.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/nxt-ok.cil.c
+END
+create_iquery.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/create_iquery.cil.c
+END
+recipient-bad_BUG.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/recipient-bad_BUG.cil.c
+END
+realpath-ok.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/realpath-ok.cil.c
+END
+mapped-path-ok.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/mapped-path-ok.cil.c
+END
+txt-dns-file-bad_BUG.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/txt-dns-file-bad_BUG.cil.c
+END
+iquery-ok.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/iquery-ok.cil.c
+END
+main-ok.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/loopfrog/main-ok.cil.c
+END

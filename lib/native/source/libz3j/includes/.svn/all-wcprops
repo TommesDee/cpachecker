@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8682/trunk/lib/native/source/libz3j/includes
+END
+arguments.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8682/trunk/lib/native/source/libz3j/includes/arguments.h
+END
+function.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8682/trunk/lib/native/source/libz3j/includes/function.h
+END
+types.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8682/trunk/lib/native/source/libz3j/includes/types.h
+END
+interpolation.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/8682/trunk/lib/native/source/libz3j/includes/interpolation.h
+END

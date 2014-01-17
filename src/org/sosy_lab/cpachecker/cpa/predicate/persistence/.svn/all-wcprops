@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10285/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/persistence
+END
+LoopInvariantsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10285/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/persistence/LoopInvariantsWriter.java
+END
+PredicatePersistenceUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/8754/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/persistence/PredicatePersistenceUtils.java
+END
+PredicateMapWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/8742/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/persistence/PredicateMapWriter.java
+END
+PredicateAbstractionsStorage.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/10285/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/persistence/PredicateAbstractionsStorage.java
+END
+PredicateAbstractionsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/10285/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/persistence/PredicateAbstractionsWriter.java
+END
+PredicateMapParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10285/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/persistence/PredicateMapParser.java
+END

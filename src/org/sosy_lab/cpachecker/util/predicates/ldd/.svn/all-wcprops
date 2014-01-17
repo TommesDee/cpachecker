@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7749/trunk/src/org/sosy_lab/cpachecker/util/predicates/ldd
+END
+LDDRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/5639/trunk/src/org/sosy_lab/cpachecker/util/predicates/ldd/LDDRegion.java
+END
+TheoryType.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5639/trunk/src/org/sosy_lab/cpachecker/util/predicates/ldd/TheoryType.java
+END
+LDDFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/7055/trunk/src/org/sosy_lab/cpachecker/util/predicates/ldd/LDDFactory.java
+END
+LDDRegionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7749/trunk/src/org/sosy_lab/cpachecker/util/predicates/ldd/LDDRegionManager.java
+END
+LDD.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/5639/trunk/src/org/sosy_lab/cpachecker/util/predicates/ldd/LDD.java
+END
+ExistsType.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/5639/trunk/src/org/sosy_lab/cpachecker/util/predicates/ldd/ExistsType.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/scratch/3_buf_IO_barrier
+END
+dma_example_spu.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/scratch/3_buf_IO_barrier/dma_example_spu.cil.c
+END
+dma_example_spu_with_bug.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/5551/trunk/test/programs/cpbm/scratch/3_buf_IO_barrier/dma_example_spu_with_bug.cil.c
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9274/trunk/src/org/sosy_lab/cpachecker/util/predicates/interfaces/basicimpl
+END
+AbstractUnsafeFormulaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/8333/trunk/src/org/sosy_lab/cpachecker/util/predicates/interfaces/basicimpl/AbstractUnsafeFormulaManager.java
+END
+AbstractBooleanFormulaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/8789/trunk/src/org/sosy_lab/cpachecker/util/predicates/interfaces/basicimpl/AbstractBooleanFormulaManager.java
+END
+AbstractBaseFormulaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/7611/trunk/src/org/sosy_lab/cpachecker/util/predicates/interfaces/basicimpl/AbstractBaseFormulaManager.java
+END
+AbstractFormulaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/7937/trunk/src/org/sosy_lab/cpachecker/util/predicates/interfaces/basicimpl/AbstractFormulaManager.java
+END
+AbstractFormulaCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/8682/trunk/src/org/sosy_lab/cpachecker/util/predicates/interfaces/basicimpl/AbstractFormulaCreator.java
+END
+AbstractRationalFormulaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/9104/trunk/src/org/sosy_lab/cpachecker/util/predicates/interfaces/basicimpl/AbstractRationalFormulaManager.java
+END
+FormulaCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/7509/trunk/src/org/sosy_lab/cpachecker/util/predicates/interfaces/basicimpl/FormulaCreator.java
+END
+AbstractBitvectorFormulaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/9274/trunk/src/org/sosy_lab/cpachecker/util/predicates/interfaces/basicimpl/AbstractBitvectorFormulaManager.java
+END
+AbstractFormula.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/8620/trunk/src/org/sosy_lab/cpachecker/util/predicates/interfaces/basicimpl/AbstractFormula.java
+END
+AbstractFormulaList.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/7509/trunk/src/org/sosy_lab/cpachecker/util/predicates/interfaces/basicimpl/AbstractFormulaList.java
+END
+AbstractFunctionFormulaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/7510/trunk/src/org/sosy_lab/cpachecker/util/predicates/interfaces/basicimpl/AbstractFunctionFormulaManager.java
+END

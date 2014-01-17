@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7682/trunk/test/programs/parser/ansi-c/arithmetic_right_shift1
+END
+test.desc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/7682/trunk/test/programs/parser/ansi-c/arithmetic_right_shift1/test.desc
+END
+mainArithmetic_right_shift.i
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/7682/trunk/test/programs/parser/ansi-c/arithmetic_right_shift1/mainArithmetic_right_shift.i
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7682/trunk/test/programs/parser/ansi-c/arithmetic_right_shift1/main.c
+END

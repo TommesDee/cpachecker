@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/7696/trunk/test/programs/nestedLocks
+END
+test_locks_while_mix_5_safe.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7696/trunk/test/programs/nestedLocks/test_locks_while_mix_5_safe.c
+END
+test_locks_while_nest_5_safe.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7696/trunk/test/programs/nestedLocks/test_locks_while_nest_5_safe.c
+END
+test_locks_15_5Var_safe.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7696/trunk/test/programs/nestedLocks/test_locks_15_5Var_safe.c
+END
+test_locks_while_seq_5_safe.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/7696/trunk/test/programs/nestedLocks/test_locks_while_seq_5_safe.c
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/10375/trunk/config/includes
+END
+explicitAnalysis.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10375/trunk/config/includes/explicitAnalysis.properties
+END
+predicateAnalysis-ImpactAbstractionRefiner.properties
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7884/trunk/config/includes/predicateAnalysis-ImpactAbstractionRefiner.properties
+END
+predicateAnalysis-PredAbsRefiner.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/8246/trunk/config/includes/predicateAnalysis-PredAbsRefiner.properties
+END
+predicateAnalysis-ABE.properties
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7042/trunk/config/includes/predicateAnalysis-ABE.properties
+END
+predicateAnalysis-bitprecise.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9211/trunk/config/includes/predicateAnalysis-bitprecise.properties
+END
+resource-limits.properties
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8846/trunk/config/includes/resource-limits.properties
+END
+predicateAnalysis-ImpactRefiner.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7884/trunk/config/includes/predicateAnalysis-ImpactRefiner.properties
+END
+predicateAnalysis-ABElf.properties
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7042/trunk/config/includes/predicateAnalysis-ABElf.properties
+END
+predicateAnalysis.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10375/trunk/config/includes/predicateAnalysis.properties
+END
+predicateAnalysis-ABEl.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/7042/trunk/config/includes/predicateAnalysis-ABEl.properties
+END
+predicateAnalysis-noPointer.properties
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10375/trunk/config/includes/predicateAnalysis-noPointer.properties
+END

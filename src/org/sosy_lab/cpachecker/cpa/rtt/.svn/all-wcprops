@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8404/trunk/src/org/sosy_lab/cpachecker/cpa/rtt
+END
+RTTState.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/7865/trunk/src/org/sosy_lab/cpachecker/cpa/rtt/RTTState.java
+END
+RTTTransferRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8404/trunk/src/org/sosy_lab/cpachecker/cpa/rtt/RTTTransferRelation.java
+END
+RTTDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7042/trunk/src/org/sosy_lab/cpachecker/cpa/rtt/RTTDomain.java
+END
+RTTCPAStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/7610/trunk/src/org/sosy_lab/cpachecker/cpa/rtt/RTTCPAStatistics.java
+END
+RTTCPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7623/trunk/src/org/sosy_lab/cpachecker/cpa/rtt/RTTCPA.java
+END

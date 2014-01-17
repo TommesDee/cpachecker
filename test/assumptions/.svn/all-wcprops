@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/10375/trunk/test/assumptions
+END
+explicit-adjustableConditions.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10375/trunk/test/assumptions/explicit-adjustableConditions.properties
+END
+benchmark-explicit-time10s.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7042/trunk/test/assumptions/benchmark-explicit-time10s.xml
+END
+uninitvars-adjustableConditions.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10375/trunk/test/assumptions/uninitvars-adjustableConditions.properties
+END
+explicitAnalysis-10s-timelimit.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10375/trunk/test/assumptions/explicitAnalysis-10s-timelimit.properties
+END
+predicate-adjustableConditions.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10375/trunk/test/assumptions/predicate-adjustableConditions.properties
+END
+benchmark-explicit-nolimits.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7042/trunk/test/assumptions/benchmark-explicit-nolimits.xml
+END
+benchmark-lbe-nolimits.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7042/trunk/test/assumptions/benchmark-lbe-nolimits.xml
+END
+benchmark-cbmc-10.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7042/trunk/test/assumptions/benchmark-cbmc-10.xml
+END
+benchmark-cbmc-1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7042/trunk/test/assumptions/benchmark-cbmc-1.xml
+END
+adjustableConditions.set
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5229/trunk/test/assumptions/adjustableConditions.set
+END
+adjustableConditions-uninitvars.set
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/5229/trunk/test/assumptions/adjustableConditions-uninitvars.set
+END
+benchmark-lbe-adjustable-conditions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7042/trunk/test/assumptions/benchmark-lbe-adjustable-conditions.xml
+END
+benchmark-restart-algorithm-combinations.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/7042/trunk/test/assumptions/benchmark-restart-algorithm-combinations.xml
+END
+benchmark-explicit-heuristics.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/7042/trunk/test/assumptions/benchmark-explicit-heuristics.xml
+END
+explicitAnalysis-heuristics.properties
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10375/trunk/test/assumptions/explicitAnalysis-heuristics.properties
+END
+assumptions.set
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5229/trunk/test/assumptions/assumptions.set
+END
+benchmark-explicit-adjustable-conditions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/7042/trunk/test/assumptions/benchmark-explicit-adjustable-conditions.xml
+END
+combination-b.properties
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5549/trunk/test/assumptions/combination-b.properties
+END
+benchmark-uninitvars-adjustable-conditions.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/7042/trunk/test/assumptions/benchmark-uninitvars-adjustable-conditions.xml
+END
+combination-a.properties
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/5549/trunk/test/assumptions/combination-a.properties
+END

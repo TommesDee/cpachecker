@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/7608/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/relevantpredicates
+END
+OccurrenceComputer.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/5342/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/relevantpredicates/OccurrenceComputer.java
+END
+RefineableRelevantPredicatesComputer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/5543/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/relevantpredicates/RefineableRelevantPredicatesComputer.java
+END
+AbstractRelevantPredicatesComputer.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/7055/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/relevantpredicates/AbstractRelevantPredicatesComputer.java
+END
+RelevantPredicatesComputer.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/5342/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/relevantpredicates/RelevantPredicatesComputer.java
+END
+CachingRelevantPredicatesComputer.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/7055/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/relevantpredicates/CachingRelevantPredicatesComputer.java
+END
+RefineableOccurrenceComputer.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/6242/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/relevantpredicates/RefineableOccurrenceComputer.java
+END
+AuxiliaryComputer.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/7608/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/relevantpredicates/AuxiliaryComputer.java
+END

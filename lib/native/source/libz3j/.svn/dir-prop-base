@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 72
+*.log
+*.o
+*.so
+org_sosy_lab_cpachecker_util_predicates_z3_Z3NativeApi.*
+
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/7042/trunk/plugin/CPAclipse/src/org/sosy_lab/cpachecker/plugin/eclipse/editors/specificationeditor
+END
+SpecificationEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/7042/trunk/plugin/CPAclipse/src/org/sosy_lab/cpachecker/plugin/eclipse/editors/specificationeditor/SpecificationEditor.java
+END
+SpecificationDocumentProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/7042/trunk/plugin/CPAclipse/src/org/sosy_lab/cpachecker/plugin/eclipse/editors/specificationeditor/SpecificationDocumentProvider.java
+END
+IncludeHyperlink.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/7042/trunk/plugin/CPAclipse/src/org/sosy_lab/cpachecker/plugin/eclipse/editors/specificationeditor/IncludeHyperlink.java
+END
+ColorManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/7042/trunk/plugin/CPAclipse/src/org/sosy_lab/cpachecker/plugin/eclipse/editors/specificationeditor/ColorManager.java
+END
+SpecificationDoubleClickStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/7042/trunk/plugin/CPAclipse/src/org/sosy_lab/cpachecker/plugin/eclipse/editors/specificationeditor/SpecificationDoubleClickStrategy.java
+END
+SpecificationPartitionScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/7042/trunk/plugin/CPAclipse/src/org/sosy_lab/cpachecker/plugin/eclipse/editors/specificationeditor/SpecificationPartitionScanner.java
+END
+IncludeHyperlinkDetector.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/7042/trunk/plugin/CPAclipse/src/org/sosy_lab/cpachecker/plugin/eclipse/editors/specificationeditor/IncludeHyperlinkDetector.java
+END
+SpecificationConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/7042/trunk/plugin/CPAclipse/src/org/sosy_lab/cpachecker/plugin/eclipse/editors/specificationeditor/SpecificationConfiguration.java
+END

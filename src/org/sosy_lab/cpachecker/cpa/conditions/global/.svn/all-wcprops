@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/cpa/conditions/global
+END
+GlobalConditionsPrecisionAdjustment.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cpa/conditions/global/GlobalConditionsPrecisionAdjustment.java
+END
+GlobalConditionsSimplePrecisionAdjustment.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/cpa/conditions/global/GlobalConditionsSimplePrecisionAdjustment.java
+END
+GlobalConditionsCPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7780/trunk/src/org/sosy_lab/cpachecker/cpa/conditions/global/GlobalConditionsCPA.java
+END
+GlobalConditionsThresholds.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cpa/conditions/global/GlobalConditionsThresholds.java
+END

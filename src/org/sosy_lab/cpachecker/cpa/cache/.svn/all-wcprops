@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/cpa/cache
+END
+CacheMergeOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/cpa/cache/CacheMergeOperator.java
+END
+CacheTransferRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cpa/cache/CacheTransferRelation.java
+END
+CachePrecisionAdjustment.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/cpa/cache/CachePrecisionAdjustment.java
+END
+CacheCPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/8556/trunk/src/org/sosy_lab/cpachecker/cpa/cache/CacheCPA.java
+END

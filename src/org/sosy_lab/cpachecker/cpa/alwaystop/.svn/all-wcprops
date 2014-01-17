@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cpa/alwaystop
+END
+AlwaysTopCPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cpa/alwaystop/AlwaysTopCPA.java
+END
+AlwaysTopTransferRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cpa/alwaystop/AlwaysTopTransferRelation.java
+END
+AlwaysTopStopOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cpa/alwaystop/AlwaysTopStopOperator.java
+END
+AlwaysTopState.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cpa/alwaystop/AlwaysTopState.java
+END
+AlwaysTopDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cpa/alwaystop/AlwaysTopDomain.java
+END
+AlwaysTopPrecision.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cpa/alwaystop/AlwaysTopPrecision.java
+END
+AlwaysTopMergeOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cpa/alwaystop/AlwaysTopMergeOperator.java
+END
+AlwaysTopPrecisionAdjustment.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cpa/alwaystop/AlwaysTopPrecisionAdjustment.java
+END

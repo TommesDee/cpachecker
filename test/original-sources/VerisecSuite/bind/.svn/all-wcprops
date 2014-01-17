@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7042/trunk/test/original-sources/VerisecSuite/bind
+END
+bind.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5551/trunk/test/original-sources/VerisecSuite/bind/bind.c
+END
+bind.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/7042/trunk/test/original-sources/VerisecSuite/bind/bind.h
+END
+bind1.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7042/trunk/test/original-sources/VerisecSuite/bind/bind1.h
+END

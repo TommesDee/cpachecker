@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/8677/trunk/test/programs/induction
+END
+induction-mod2.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3718/trunk/test/programs/induction/induction-mod2.c
+END
+s3_srvr_2e_safe.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8677/trunk/test/programs/induction/s3_srvr_2e_safe.cil.c
+END
+induction-mod5.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3718/trunk/test/programs/induction/induction-mod5.c
+END
+induction1.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3718/trunk/test/programs/induction/induction1.c
+END
+induction2.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/3718/trunk/test/programs/induction/induction2.c
+END
+induction-next-state.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8677/trunk/test/programs/induction/induction-next-state.c
+END
+SAS.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/8677/trunk/test/programs/induction/SAS.c
+END
+induction1_BUG.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/3718/trunk/test/programs/induction/induction1_BUG.c
+END
+SAS_minimal.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/8677/trunk/test/programs/induction/SAS_minimal.c
+END

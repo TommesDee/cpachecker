@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/8466/trunk/src/org/sosy_lab/cpachecker/cfa/blocks
+END
+Block.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cfa/blocks/Block.java
+END
+BlockPartitioning.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cfa/blocks/BlockPartitioning.java
+END
+ReferencedVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/7866/trunk/src/org/sosy_lab/cpachecker/cfa/blocks/ReferencedVariable.java
+END

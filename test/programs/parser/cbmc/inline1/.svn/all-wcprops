@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/inline1
+END
+module.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/inline1/module.c
+END
+inline1.i
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/inline1/inline1.i
+END
+header.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/inline1/header.h
+END
+test.desc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/inline1/test.desc
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/inline1/main.c
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10293/trunk/src/org/sosy_lab/cpachecker/pcc/strategy/parallel
+END
+PartialReachedSetParallelStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9390/trunk/src/org/sosy_lab/cpachecker/pcc/strategy/parallel/PartialReachedSetParallelStrategy.java
+END
+ReachedSetParallelStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10293/trunk/src/org/sosy_lab/cpachecker/pcc/strategy/parallel/ReachedSetParallelStrategy.java
+END
+ARGProofCheckerParallelStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/10293/trunk/src/org/sosy_lab/cpachecker/pcc/strategy/parallel/ARGProofCheckerParallelStrategy.java
+END

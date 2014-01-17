@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/5551/trunk/test/programs/simple/switch-tests
+END
+switch2.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5551/trunk/test/programs/simple/switch-tests/switch2.c
+END
+switch3.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5551/trunk/test/programs/simple/switch-tests/switch3.c
+END
+switch4.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5551/trunk/test/programs/simple/switch-tests/switch4.c
+END
+switch5.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5551/trunk/test/programs/simple/switch-tests/switch5.c
+END
+switch.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5551/trunk/test/programs/simple/switch-tests/switch.c
+END

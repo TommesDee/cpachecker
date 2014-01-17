@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/7042/trunk/plugin/CPAclipse
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7042/trunk/plugin/CPAclipse/build.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1809/trunk/plugin/CPAclipse/.project
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/7042/trunk/plugin/CPAclipse/plugin.xml
+END
+preferences.ini
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6166/trunk/plugin/CPAclipse/preferences.ini
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1607/trunk/plugin/CPAclipse/.classpath
+END

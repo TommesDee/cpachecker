@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 21
+*.log
+*.jar
+*.o
+*.so
+
+END

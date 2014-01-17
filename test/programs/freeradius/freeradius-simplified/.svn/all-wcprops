@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5551/trunk/test/programs/freeradius/freeradius-simplified
+END
+rlm_eap_tls-simple.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5551/trunk/test/programs/freeradius/freeradius-simplified/rlm_eap_tls-simple.c
+END
+valuepair-simple.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/5551/trunk/test/programs/freeradius/freeradius-simplified/valuepair-simple.cil.c
+END
+auth-simple.c-2
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1248/trunk/test/programs/freeradius/freeradius-simplified/auth-simple.c-2
+END
+auth-simple.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/5551/trunk/test/programs/freeradius/freeradius-simplified/auth-simple.cil.c
+END
+auth-simple.cil-2
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1248/trunk/test/programs/freeradius/freeradius-simplified/auth-simple.cil-2
+END
+rlm_eap_tls-simple.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/5551/trunk/test/programs/freeradius/freeradius-simplified/rlm_eap_tls-simple.cil.c
+END
+valuepair-simple.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/5551/trunk/test/programs/freeradius/freeradius-simplified/valuepair-simple.c
+END

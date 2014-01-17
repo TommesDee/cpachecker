@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9343/trunk/test/programs/smg_Explicity_Test/lists
+END
+list_safe.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9343/trunk/test/programs/smg_Explicity_Test/lists/list_safe.c
+END
+list_flag_safe.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9343/trunk/test/programs/smg_Explicity_Test/lists/list_flag_safe.c
+END
+simple_unsafe.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9343/trunk/test/programs/smg_Explicity_Test/lists/simple_unsafe.c
+END
+list_unsafe.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9343/trunk/test/programs/smg_Explicity_Test/lists/list_unsafe.c
+END
+list_flag_unsafe.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9343/trunk/test/programs/smg_Explicity_Test/lists/list_flag_unsafe.c
+END
+simple_safe.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9343/trunk/test/programs/smg_Explicity_Test/lists/simple_safe.c
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/5551/trunk/test/programs/sqlite
+END
+shell.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/5551/trunk/test/programs/sqlite/shell.c
+END
+testfiles-sqlite.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1374/trunk/test/programs/sqlite/testfiles-sqlite.txt
+END
+shell.cil.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5551/trunk/test/programs/sqlite/shell.cil.c
+END

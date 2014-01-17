@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7042/trunk/plugin/CPAclipse/src/org/sosy_lab/cpachecker/plugin/eclipse/views
+END
+TaskTreeViewer.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/7042/trunk/plugin/CPAclipse/src/org/sosy_lab/cpachecker/plugin/eclipse/views/TaskTreeViewer.java
+END
+TasksView.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/7042/trunk/plugin/CPAclipse/src/org/sosy_lab/cpachecker/plugin/eclipse/views/TasksView.java
+END

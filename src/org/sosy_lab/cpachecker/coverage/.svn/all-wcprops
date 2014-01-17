@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10285/trunk/src/org/sosy_lab/cpachecker/coverage
+END
+CoveragePrinterGcov.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10285/trunk/src/org/sosy_lab/cpachecker/coverage/CoveragePrinterGcov.java
+END
+CoveragePrinter.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/8727/trunk/src/org/sosy_lab/cpachecker/coverage/CoveragePrinter.java
+END

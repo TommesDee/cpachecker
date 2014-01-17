@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10194/trunk/lib/native/x86_64-linux
+END
+chc_lib
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10194/trunk/lib/native/x86_64-linux/chc_lib
+END
+cbmc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/9794/trunk/lib/native/x86_64-linux/cbmc
+END
+libjpl.so
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10194/trunk/lib/native/x86_64-linux/libjpl.so
+END
+libz3.so
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/8682/trunk/lib/native/x86_64-linux/libz3.so
+END
+libmathsat5j.so
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9273/trunk/lib/native/x86_64-linux/libmathsat5j.so
+END
+evolcheck_wrapper
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7616/trunk/lib/native/x86_64-linux/evolcheck_wrapper
+END
+libz3j.so
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8682/trunk/lib/native/x86_64-linux/libz3j.so
+END
+libJOct.so
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10137/trunk/lib/native/x86_64-linux/libJOct.so
+END

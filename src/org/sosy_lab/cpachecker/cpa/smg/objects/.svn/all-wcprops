@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10414/trunk/src/org/sosy_lab/cpachecker/cpa/smg/objects
+END
+SMGAbstractObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10414/trunk/src/org/sosy_lab/cpachecker/cpa/smg/objects/SMGAbstractObject.java
+END
+DummyAbstraction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10414/trunk/src/org/sosy_lab/cpachecker/cpa/smg/objects/DummyAbstraction.java
+END
+SMGObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10414/trunk/src/org/sosy_lab/cpachecker/cpa/smg/objects/SMGObject.java
+END
+SMGObjectVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10414/trunk/src/org/sosy_lab/cpachecker/cpa/smg/objects/SMGObjectVisitor.java
+END
+SMGRegion.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10414/trunk/src/org/sosy_lab/cpachecker/cpa/smg/objects/SMGRegion.java
+END

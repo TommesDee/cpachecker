@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10428/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/variableselection
+END
+VariableSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/8550/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/variableselection/VariableSelection.java
+END
+VariableSelectionVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/8550/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/variableselection/VariableSelectionVisitor.java
+END
+AcceptSpecifiedVariableSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/10428/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/variableselection/AcceptSpecifiedVariableSelection.java
+END
+AcceptAllVariableSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/8550/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/variableselection/AcceptAllVariableSelection.java
+END

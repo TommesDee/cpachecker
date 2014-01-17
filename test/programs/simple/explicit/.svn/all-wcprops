@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7042/trunk/test/programs/simple/explicit
+END
+stateful_check.i
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/7042/trunk/test/programs/simple/explicit/stateful_check.i
+END
+latt2.c.cilf.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2454/trunk/test/programs/simple/explicit/latt2.c.cilf.c
+END
+explicitIgnoreFeatureVars.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6651/trunk/test/programs/simple/explicit/explicitIgnoreFeatureVars.c
+END
+latt2.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2454/trunk/test/programs/simple/explicit/latt2.c
+END
+stateful_check.i.cilf.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2454/trunk/test/programs/simple/explicit/stateful_check.i.cilf.c
+END

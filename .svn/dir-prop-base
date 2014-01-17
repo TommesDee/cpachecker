@@ -1,0 +1,45 @@
+K 10
+svn:ignore
+V 79
+bin
+build.properties
+cpachecker.jar
+CPAchecker-*.zip
+CPAchecker-*.tar.*
+output
+
+K 13
+svn:mergeinfo
+V 1053
+/branches/BDD-cegar:7676-8244
+/branches/SMG_Explicitly:8334-9342
+/branches/abe:1436-1440
+/branches/abm:3268-3529
+/branches/appengine-dev:10258-10292
+/branches/ast:2052-3110
+/branches/cfa:4741-5293
+/branches/cfa_simplification:8135-8154
+/branches/cfafunctionbuilder:6766-6798
+/branches/counterexample-info:4219-4236
+/branches/dynPrecAdj:4927-5154
+/branches/explicit:5462-5470,5473-5502,5511-5525,5539-5540
+/branches/explicit_interpolation:6415-6523
+/branches/forced-covering:5967-6157
+/branches/gae-port:9945-10091
+/branches/generic_pcc:5552-5653
+/branches/globalrefinement:6677-6942
+/branches/graceful-shutdown:8797-8845
+/branches/impact:5363-5806
+/branches/ivy:4576-4890
+/branches/java:6176-7019
+/branches/kaeufl:3640-3795
+/branches/lazy-abstractions:1853-2418
+/branches/pcc:4585-5258
+/branches/predicateAnalysisWithUF:8888-9053
+/branches/rawsignature-removal:5138-5172
+/branches/replace-file-with-path:10203-10284
+/branches/smtInterpol:5434-6057
+/branches/stopoperator:4280-4295
+/branches/wendler:1869-1911,1913-1928
+/branches/z3_integration:7716-8681
+END

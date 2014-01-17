@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/10414/trunk/config/specification
+END
+cpalien-label-only.spc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10414/trunk/config/specification/cpalien-label-only.spc
+END
+sv-comp.spc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6715/trunk/config/specification/sv-comp.spc
+END
+BDDCPAErrorLocation.spc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7021/trunk/config/specification/BDDCPAErrorLocation.spc
+END
+null-deref.spc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9240/trunk/config/specification/null-deref.spc
+END
+ErrorLabel.spc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4665/trunk/config/specification/ErrorLabel.spc
+END
+ErrorLocation.spc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/4960/trunk/config/specification/ErrorLocation.spc
+END
+cpalien-leaks.spc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10414/trunk/config/specification/cpalien-leaks.spc
+END
+TerminatingFunctions.spc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5358/trunk/config/specification/TerminatingFunctions.spc
+END
+FSM.spc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6536/trunk/config/specification/FSM.spc
+END
+default.spc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/5358/trunk/config/specification/default.spc
+END
+AssumptionGuidingAutomaton.spc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/4665/trunk/config/specification/AssumptionGuidingAutomaton.spc
+END
+Assertion.spc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6656/trunk/config/specification/Assertion.spc
+END
+ErrorLabelFsm.spc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6536/trunk/config/specification/ErrorLabelFsm.spc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4665/trunk/config/specification/README
+END

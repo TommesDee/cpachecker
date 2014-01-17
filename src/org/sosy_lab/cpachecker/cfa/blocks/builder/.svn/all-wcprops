@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/8466/trunk/src/org/sosy_lab/cpachecker/cfa/blocks/builder
+END
+ReferencedVariablesCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/8466/trunk/src/org/sosy_lab/cpachecker/cfa/blocks/builder/ReferencedVariablesCollector.java
+END
+LoopPartitioning.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/8182/trunk/src/org/sosy_lab/cpachecker/cfa/blocks/builder/LoopPartitioning.java
+END
+FunctionAndLoopPartitioning.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cfa/blocks/builder/FunctionAndLoopPartitioning.java
+END
+DelayedFunctionAndLoopPartitioning.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cfa/blocks/builder/DelayedFunctionAndLoopPartitioning.java
+END
+BlockPartitioningBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cfa/blocks/builder/BlockPartitioningBuilder.java
+END
+PartitioningHeuristic.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cfa/blocks/builder/PartitioningHeuristic.java
+END

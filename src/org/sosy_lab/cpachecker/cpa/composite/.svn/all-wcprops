@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9859/trunk/src/org/sosy_lab/cpachecker/cpa/composite
+END
+CompositeMergeAgreeOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/cpa/composite/CompositeMergeAgreeOperator.java
+END
+CompositeTransferRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8358/trunk/src/org/sosy_lab/cpachecker/cpa/composite/CompositeTransferRelation.java
+END
+CompositeMergePlainOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/cpa/composite/CompositeMergePlainOperator.java
+END
+CompositeStopOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/cpa/composite/CompositeStopOperator.java
+END
+CompositeCPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9859/trunk/src/org/sosy_lab/cpachecker/cpa/composite/CompositeCPA.java
+END
+CompositeDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/cpa/composite/CompositeDomain.java
+END
+CompositeState.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9791/trunk/src/org/sosy_lab/cpachecker/cpa/composite/CompositeState.java
+END
+CompositeMergeAgreePredicatedAnalysisOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/9806/trunk/src/org/sosy_lab/cpachecker/cpa/composite/CompositeMergeAgreePredicatedAnalysisOperator.java
+END
+CompositePrecision.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cpa/composite/CompositePrecision.java
+END
+CompositeReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cpa/composite/CompositeReducer.java
+END
+CompositePrecisionAdjustment.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9859/trunk/src/org/sosy_lab/cpachecker/cpa/composite/CompositePrecisionAdjustment.java
+END
+CompositeSimplePrecisionAdjustment.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cpa/composite/CompositeSimplePrecisionAdjustment.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/9273/trunk/lib/native/source/libmathsat5j
+END
+compile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6916/trunk/lib/native/source/libmathsat5j/compile.sh
+END
+versions.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6706/trunk/lib/native/source/libmathsat5j/versions.c
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7005/trunk/lib/native/source/libmathsat5j/README.txt
+END
+org_sosy_1lab_cpachecker_util_predicates_mathsat5_Mathsat5NativeApi.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/9273/trunk/lib/native/source/libmathsat5j/org_sosy_1lab_cpachecker_util_predicates_mathsat5_Mathsat5NativeApi.c
+END

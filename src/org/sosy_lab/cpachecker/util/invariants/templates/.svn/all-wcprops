@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9274/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates
+END
+TermForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/5543/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/TermForm.java
+END
+TemplateSumList.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7621/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/TemplateSumList.java
+END
+TemplateBoolean.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7611/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/TemplateBoolean.java
+END
+TemplateFormula.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/7621/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/TemplateFormula.java
+END
+AliasingMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/7624/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/AliasingMap.java
+END
+TemplateFormulaList.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7443/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/TemplateFormulaList.java
+END
+TemplateFalse.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/7612/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/TemplateFalse.java
+END
+TemplateTrue.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7612/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/TemplateTrue.java
+END
+TemplateDisjunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7621/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/TemplateDisjunction.java
+END
+NonTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/7611/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/NonTemplate.java
+END
+TemplateTerm.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7624/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/TemplateTerm.java
+END
+VariableWriteMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5543/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/VariableWriteMode.java
+END
+MonomialOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/5543/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/MonomialOrder.java
+END
+TemplateNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/7624/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/TemplateNumber.java
+END
+TemplateNegation.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7621/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/TemplateNegation.java
+END
+TemplateNumericValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/7611/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/TemplateNumericValue.java
+END
+TemplateLinearizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/7621/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/TemplateLinearizer.java
+END
+TemplateConjunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7621/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/TemplateConjunction.java
+END
+TemplateUIF.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/7624/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/TemplateUIF.java
+END
+TemplateVariableManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7618/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/TemplateVariableManager.java
+END
+TemplateConstraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/7621/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/TemplateConstraint.java
+END
+TemplateVariable.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7624/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/TemplateVariable.java
+END
+PlexMonomialOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/5543/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/PlexMonomialOrder.java
+END
+TemplatePathFormulaBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/8428/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/TemplatePathFormulaBuilder.java
+END
+SimpleMonomialOrder.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/5543/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/SimpleMonomialOrder.java
+END
+TemplateSum.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/7621/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/TemplateSum.java
+END
+Purification.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7624/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/Purification.java
+END

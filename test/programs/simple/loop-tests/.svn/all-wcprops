@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests
+END
+for4.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests/for4.c
+END
+for+func2.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests/for+func2.c
+END
+while+break2.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests/while+break2.c
+END
+for+true.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests/for+true.c
+END
+while.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests/while.c
+END
+for+gotoFromAfterLoop.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests/for+gotoFromAfterLoop.c
+END
+for+continue+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests/for+continue+init.c
+END
+for2+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests/for2+init.c
+END
+for+init.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests/for+init.c
+END
+for+noinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests/for+noinit.c
+END
+for+break2.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests/for+break2.c
+END
+for+iter.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests/for+iter.c
+END
+for+withoutAll.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests/for+withoutAll.c
+END
+for+break.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests/for+break.c
+END
+while3+error.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests/while3+error.c
+END
+while+continue.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests/while+continue.c
+END
+while2.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests/while2.c
+END
+while3.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests/while3.c
+END
+while4.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests/while4.c
+END
+for+nocond.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests/for+nocond.c
+END
+while+break.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests/while+break.c
+END
+for+func.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests/for+func.c
+END
+while+goto+label.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests/while+goto+label.c
+END
+while+true.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests/while+true.c
+END
+while+false.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests/while+false.c
+END
+for+continue.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests/for+continue.c
+END
+for2.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests/for2.c
+END
+for.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests/for.c
+END
+for3.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5551/trunk/test/programs/simple/loop-tests/for3.c
+END

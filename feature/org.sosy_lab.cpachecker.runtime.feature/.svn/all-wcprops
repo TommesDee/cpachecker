@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7042/trunk/feature/org.sosy_lab.cpachecker.runtime.feature
+END
+build.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/7042/trunk/feature/org.sosy_lab.cpachecker.runtime.feature/build.properties
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1611/trunk/feature/org.sosy_lab.cpachecker.runtime.feature/.project
+END
+feature.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1811/trunk/feature/org.sosy_lab.cpachecker.runtime.feature/feature.xml
+END

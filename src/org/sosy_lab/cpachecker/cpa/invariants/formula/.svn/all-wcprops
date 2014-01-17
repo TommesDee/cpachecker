@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10419/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula
+END
+Union.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8550/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/Union.java
+END
+FormulaAbstractionVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9950/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/FormulaAbstractionVisitor.java
+END
+PartialEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9950/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/PartialEvaluator.java
+END
+DefaultFormulaVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/9950/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/DefaultFormulaVisitor.java
+END
+IsBooleanFormulaVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9950/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/IsBooleanFormulaVisitor.java
+END
+DefinitelyStillHoldsVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9904/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/DefinitelyStillHoldsVisitor.java
+END
+Multiply.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8550/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/Multiply.java
+END
+Constant.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8550/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/Constant.java
+END
+AbstractFormula.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8550/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/AbstractFormula.java
+END
+ToFormulaVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/7945/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/ToFormulaVisitor.java
+END
+StateEqualsVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9950/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/StateEqualsVisitor.java
+END
+ExpressionToFormulaVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/9904/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/ExpressionToFormulaVisitor.java
+END
+InvariantsFormulaVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9950/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/InvariantsFormulaVisitor.java
+END
+ReplaceVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/7905/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/ReplaceVisitor.java
+END
+BinaryXor.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8550/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/BinaryXor.java
+END
+LessThan.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8550/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/LessThan.java
+END
+Divide.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8550/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/Divide.java
+END
+CollectVarsVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9950/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/CollectVarsVisitor.java
+END
+RecursiveDefaultFormulaVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9950/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/RecursiveDefaultFormulaVisitor.java
+END
+BinaryAnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8550/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/BinaryAnd.java
+END
+ToBooleanFormulaVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/9950/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/ToBooleanFormulaVisitor.java
+END
+ParameterizedInvariantsFormulaVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/9950/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/ParameterizedInvariantsFormulaVisitor.java
+END
+InvariantsFormula.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/7905/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/InvariantsFormula.java
+END
+FormulaCompoundStateEvaluationVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/9950/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/FormulaCompoundStateEvaluationVisitor.java
+END
+BinaryNot.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8550/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/BinaryNot.java
+END
+ToFormulaVisitorWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/8724/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/ToFormulaVisitorWrapper.java
+END
+LogicalAnd.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8550/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/LogicalAnd.java
+END
+CompoundStateFormulaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/9981/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/CompoundStateFormulaManager.java
+END
+FormulaEvaluationVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/7905/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/FormulaEvaluationVisitor.java
+END
+GuessAssumptionVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/9904/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/GuessAssumptionVisitor.java
+END
+ExposeVarVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9950/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/ExposeVarVisitor.java
+END
+HasOneVariablePerClauseVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/9950/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/HasOneVariablePerClauseVisitor.java
+END
+LogicalNot.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8550/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/LogicalNot.java
+END
+ShiftLeft.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8550/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/ShiftLeft.java
+END
+ContainsVarVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9950/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/ContainsVarVisitor.java
+END
+ComparisonVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/9904/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/ComparisonVisitor.java
+END
+CanExtractVariableRelationVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/9950/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/CanExtractVariableRelationVisitor.java
+END
+BinaryOr.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8550/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/BinaryOr.java
+END
+SplitDisjunctionsVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9950/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/SplitDisjunctionsVisitor.java
+END
+Add.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9950/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/Add.java
+END
+DefaultParameterizedFormulaVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9950/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/DefaultParameterizedFormulaVisitor.java
+END
+ParameterizedInvariantsFormulaVisitorWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/9950/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/ParameterizedInvariantsFormulaVisitorWrapper.java
+END
+ContainsOnlyEnvInfoVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/8550/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/ContainsOnlyEnvInfoVisitor.java
+END
+ToBitvectorFormulaVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/9950/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/ToBitvectorFormulaVisitor.java
+END
+FormulaDepthCountVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9950/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/FormulaDepthCountVisitor.java
+END
+Variable.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8550/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/Variable.java
+END
+PushAssumptionToEnvironmentVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/9950/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/PushAssumptionToEnvironmentVisitor.java
+END
+InvariantsFormulaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9950/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/InvariantsFormulaManager.java
+END
+ShiftRight.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8550/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/ShiftRight.java
+END
+SplitConjunctionsVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9950/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/SplitConjunctionsVisitor.java
+END
+Modulo.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8550/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/Modulo.java
+END
+Equal.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8550/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/Equal.java
+END
+CachingEvaluationVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10419/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/CachingEvaluationVisitor.java
+END
+PushSummandVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/9950/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/PushSummandVisitor.java
+END
+ToRationalFormulaVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/9950/trunk/src/org/sosy_lab/cpachecker/cpa/invariants/formula/ToRationalFormulaVisitor.java
+END

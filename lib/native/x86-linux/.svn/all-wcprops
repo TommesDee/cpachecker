@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/9794/trunk/lib/native/x86-linux
+END
+libJLDD.so
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/5561/trunk/lib/native/x86-linux/libJLDD.so
+END
+cbmc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/9794/trunk/lib/native/x86-linux/cbmc
+END
+libmathsat5j.so
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/9273/trunk/lib/native/x86-linux/libmathsat5j.so
+END
+libJOct.so
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2805/trunk/lib/native/x86-linux/libJOct.so
+END

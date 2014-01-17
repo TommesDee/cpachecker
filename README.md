@@ -1,3 +1,0 @@
-cpachecker
-==========
-kljlöj lökj ljk 

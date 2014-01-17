@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/5551/trunk/test/original-sources/VerisecSuite/apache/progs
+END
+apacheCVE-2004-0940get_tag_iter1_prefixLong_arr_ok.c
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/5551/trunk/test/original-sources/VerisecSuite/apache/progs/apacheCVE-2004-0940get_tag_iter1_prefixLong_arr_ok.c
+END
+apacheCVE-2004-0940get_tag_iter1_prefixLong_arr_bad.c
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/5551/trunk/test/original-sources/VerisecSuite/apache/progs/apacheCVE-2004-0940get_tag_iter1_prefixLong_arr_bad.c
+END

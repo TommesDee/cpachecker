@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/cpa/callstackPCC
+END
+CallstackPccCPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/cpa/callstackPCC/CallstackPccCPA.java
+END
+CallstackPccTransferRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8075/trunk/src/org/sosy_lab/cpachecker/cpa/callstackPCC/CallstackPccTransferRelation.java
+END
+CallstackPccState.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/8218/trunk/src/org/sosy_lab/cpachecker/cpa/callstackPCC/CallstackPccState.java
+END
+CallstackPccReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/8075/trunk/src/org/sosy_lab/cpachecker/cpa/callstackPCC/CallstackPccReducer.java
+END

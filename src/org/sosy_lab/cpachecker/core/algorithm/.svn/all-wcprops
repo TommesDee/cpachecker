@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10409/trunk/src/org/sosy_lab/cpachecker/core/algorithm
+END
+CounterexampleCPAChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10285/trunk/src/org/sosy_lab/cpachecker/core/algorithm/CounterexampleCPAChecker.java
+END
+ExternalCBMCAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9303/trunk/src/org/sosy_lab/cpachecker/core/algorithm/ExternalCBMCAlgorithm.java
+END
+Algorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9444/trunk/src/org/sosy_lab/cpachecker/core/algorithm/Algorithm.java
+END
+ProofGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10409/trunk/src/org/sosy_lab/cpachecker/core/algorithm/ProofGenerator.java
+END
+AssumptionCollectorAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10285/trunk/src/org/sosy_lab/cpachecker/core/algorithm/AssumptionCollectorAlgorithm.java
+END
+ProofCheckAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/core/algorithm/ProofCheckAlgorithm.java
+END
+PredicatedAnalysisAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9889/trunk/src/org/sosy_lab/cpachecker/core/algorithm/PredicatedAnalysisAlgorithm.java
+END
+ResultCheckAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/core/algorithm/ResultCheckAlgorithm.java
+END
+RestartWithConditionsAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8390/trunk/src/org/sosy_lab/cpachecker/core/algorithm/RestartWithConditionsAlgorithm.java
+END
+RestartAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10375/trunk/src/org/sosy_lab/cpachecker/core/algorithm/RestartAlgorithm.java
+END
+AlgorithmWithPropertyCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8217/trunk/src/org/sosy_lab/cpachecker/core/algorithm/AlgorithmWithPropertyCheck.java
+END
+CPAAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9859/trunk/src/org/sosy_lab/cpachecker/core/algorithm/CPAAlgorithm.java
+END
+CEGARAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8830/trunk/src/org/sosy_lab/cpachecker/core/algorithm/CEGARAlgorithm.java
+END
+BMCAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10285/trunk/src/org/sosy_lab/cpachecker/core/algorithm/BMCAlgorithm.java
+END
+CounterexampleCheckAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10144/trunk/src/org/sosy_lab/cpachecker/core/algorithm/CounterexampleCheckAlgorithm.java
+END
+BDDCPARestrictionAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/core/algorithm/BDDCPARestrictionAlgorithm.java
+END

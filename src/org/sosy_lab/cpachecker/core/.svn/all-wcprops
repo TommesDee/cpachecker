@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10410/trunk/src/org/sosy_lab/cpachecker/core
+END
+MainCPAStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10293/trunk/src/org/sosy_lab/cpachecker/core/MainCPAStatistics.java
+END
+CPAcheckerResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10410/trunk/src/org/sosy_lab/cpachecker/core/CPAcheckerResult.java
+END
+ShutdownNotifierTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/core/ShutdownNotifierTest.java
+END
+CounterexampleInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10285/trunk/src/org/sosy_lab/cpachecker/core/CounterexampleInfo.java
+END
+ShutdownNotifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/core/ShutdownNotifier.java
+END
+Model.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10361/trunk/src/org/sosy_lab/cpachecker/core/Model.java
+END
+CPABuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10329/trunk/src/org/sosy_lab/cpachecker/core/CPABuilder.java
+END
+CoreComponentsFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10375/trunk/src/org/sosy_lab/cpachecker/core/CoreComponentsFactory.java
+END
+CPAchecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10410/trunk/src/org/sosy_lab/cpachecker/core/CPAchecker.java
+END

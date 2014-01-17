@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10411/trunk/src/org/sosy_lab/cpachecker/cpa/arg
+END
+ARGPathExport.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10411/trunk/src/org/sosy_lab/cpachecker/cpa/arg/ARGPathExport.java
+END
+ARGMergeJoin.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/cpa/arg/ARGMergeJoin.java
+END
+ARGToDotWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9828/trunk/src/org/sosy_lab/cpachecker/cpa/arg/ARGToDotWriter.java
+END
+ARGReachedSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/cpa/arg/ARGReachedSet.java
+END
+AbstractARGBasedRefiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/8627/trunk/src/org/sosy_lab/cpachecker/cpa/arg/AbstractARGBasedRefiner.java
+END
+ARGStopSep.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9859/trunk/src/org/sosy_lab/cpachecker/cpa/arg/ARGStopSep.java
+END
+ErrorPathShrinker.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8403/trunk/src/org/sosy_lab/cpachecker/cpa/arg/ErrorPathShrinker.java
+END
+ARGSimplePrecisionAdjustment.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cpa/arg/ARGSimplePrecisionAdjustment.java
+END
+ARGCPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10144/trunk/src/org/sosy_lab/cpachecker/cpa/arg/ARGCPA.java
+END
+ARGTransferRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8177/trunk/src/org/sosy_lab/cpachecker/cpa/arg/ARGTransferRelation.java
+END
+ARGState.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9859/trunk/src/org/sosy_lab/cpachecker/cpa/arg/ARGState.java
+END
+ARGPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cpa/arg/ARGPath.java
+END
+ARGUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10323/trunk/src/org/sosy_lab/cpachecker/cpa/arg/ARGUtils.java
+END
+ARGStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10355/trunk/src/org/sosy_lab/cpachecker/cpa/arg/ARGStatistics.java
+END
+ARGReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cpa/arg/ARGReducer.java
+END
+ARGMergeJoinPredicatedAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/9859/trunk/src/org/sosy_lab/cpachecker/cpa/arg/ARGMergeJoinPredicatedAnalysis.java
+END
+ARGPrecisionAdjustment.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9859/trunk/src/org/sosy_lab/cpachecker/cpa/arg/ARGPrecisionAdjustment.java
+END

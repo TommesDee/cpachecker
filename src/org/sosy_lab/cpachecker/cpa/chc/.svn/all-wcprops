@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10208/trunk/src/org/sosy_lab/cpachecker/cpa/chc
+END
+ConstraintManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10194/trunk/src/org/sosy_lab/cpachecker/cpa/chc/ConstraintManager.java
+END
+CHCPrecision.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10194/trunk/src/org/sosy_lab/cpachecker/cpa/chc/CHCPrecision.java
+END
+Constraint.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10194/trunk/src/org/sosy_lab/cpachecker/cpa/chc/Constraint.java
+END
+CHCPrecisionAdjustment.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10194/trunk/src/org/sosy_lab/cpachecker/cpa/chc/CHCPrecisionAdjustment.java
+END
+CHCCPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10194/trunk/src/org/sosy_lab/cpachecker/cpa/chc/CHCCPA.java
+END
+CHCTransferRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10208/trunk/src/org/sosy_lab/cpachecker/cpa/chc/CHCTransferRelation.java
+END
+CHCState.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10194/trunk/src/org/sosy_lab/cpachecker/cpa/chc/CHCState.java
+END
+CHCDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10194/trunk/src/org/sosy_lab/cpachecker/cpa/chc/CHCDomain.java
+END

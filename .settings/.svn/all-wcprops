@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/10104/trunk/.settings
+END
+org.eclipse.mylyn.tasks.ui.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4283/trunk/.settings/org.eclipse.mylyn.tasks.ui.prefs
+END
+CPAchecker ExplicitAnalysis.launch
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/7749/trunk/.settings/CPAchecker%20ExplicitAnalysis.launch
+END
+org.eclipse.jdt.core.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7630/trunk/.settings/org.eclipse.jdt.core.prefs
+END
+CPAchecker ProofGen.launch
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5262/trunk/.settings/CPAchecker%20ProofGen.launch
+END
+CPAchecker CPAlien.launch
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7885/trunk/.settings/CPAchecker%20CPAlien.launch
+END
+CPAchecker PredicateAnalysisWithUFs.launch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9065/trunk/.settings/CPAchecker%20PredicateAnalysisWithUFs.launch
+END
+org.eclipse.core.resources.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/4077/trunk/.settings/org.eclipse.core.resources.prefs
+END
+org.eclipse.jdt.ui.prefs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8216/trunk/.settings/org.eclipse.jdt.ui.prefs
+END
+CPAchecker PredicateAnalysis.launch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7749/trunk/.settings/CPAchecker%20PredicateAnalysis.launch
+END
+CPAchecker ProofCheck.launch
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/5262/trunk/.settings/CPAchecker%20ProofCheck.launch
+END

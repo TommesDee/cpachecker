@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8405/trunk/src/org/sosy_lab/cpachecker/cfa/model/java
+END
+JDeclarationEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cfa/model/java/JDeclarationEdge.java
+END
+JMethodEntryNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cfa/model/java/JMethodEntryNode.java
+END
+JMethodReturnEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cfa/model/java/JMethodReturnEdge.java
+END
+JMethodSummaryEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8405/trunk/src/org/sosy_lab/cpachecker/cfa/model/java/JMethodSummaryEdge.java
+END
+JMethodCallEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8405/trunk/src/org/sosy_lab/cpachecker/cfa/model/java/JMethodCallEdge.java
+END
+JAssumeEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cfa/model/java/JAssumeEdge.java
+END
+JStatementEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cfa/model/java/JStatementEdge.java
+END
+JReturnStatementEdge.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/7625/trunk/src/org/sosy_lab/cpachecker/cfa/model/java/JReturnStatementEdge.java
+END

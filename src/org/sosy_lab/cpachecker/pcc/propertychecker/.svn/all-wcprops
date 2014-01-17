@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8215/trunk/src/org/sosy_lab/cpachecker/pcc/propertychecker
+END
+DefaultPropertyChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7861/trunk/src/org/sosy_lab/cpachecker/pcc/propertychecker/DefaultPropertyChecker.java
+END
+SingleValueChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8215/trunk/src/org/sosy_lab/cpachecker/pcc/propertychecker/SingleValueChecker.java
+END
+PropertyCheckerBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/8215/trunk/src/org/sosy_lab/cpachecker/pcc/propertychecker/PropertyCheckerBuilder.java
+END
+SingleDefinitionChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/8215/trunk/src/org/sosy_lab/cpachecker/pcc/propertychecker/SingleDefinitionChecker.java
+END
+SingleDefinitionSingleValueChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/8097/trunk/src/org/sosy_lab/cpachecker/pcc/propertychecker/SingleDefinitionSingleValueChecker.java
+END
+NoTargetStateChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/7977/trunk/src/org/sosy_lab/cpachecker/pcc/propertychecker/NoTargetStateChecker.java
+END
+PerElementPropertyChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/8215/trunk/src/org/sosy_lab/cpachecker/pcc/propertychecker/PerElementPropertyChecker.java
+END

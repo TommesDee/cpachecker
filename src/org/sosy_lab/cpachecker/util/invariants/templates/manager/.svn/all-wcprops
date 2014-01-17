@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9274/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/manager
+END
+TemplateFunctionFormulaTypeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/7611/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/manager/TemplateFunctionFormulaTypeImpl.java
+END
+TemplateBitvectorFormulaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/9274/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/manager/TemplateBitvectorFormulaManager.java
+END
+TemplateNumericBaseFormulaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/7042/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/manager/TemplateNumericBaseFormulaManager.java
+END
+TemplateNumericFormulaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/9104/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/manager/TemplateNumericFormulaManager.java
+END
+TemplateFunctionFormulaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/7618/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/manager/TemplateFunctionFormulaManager.java
+END
+TemplateUnsafeFormulaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/7611/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/manager/TemplateUnsafeFormulaManager.java
+END
+TemplateBooleanFormulaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/8789/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/manager/TemplateBooleanFormulaManager.java
+END
+TemplateFormulaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/8579/trunk/src/org/sosy_lab/cpachecker/util/invariants/templates/manager/TemplateFormulaManager.java
+END

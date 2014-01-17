@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10293/trunk/src/org/sosy_lab/cpachecker/util/predicates/interpolation
+END
+InterpolationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/10293/trunk/src/org/sosy_lab/cpachecker/util/predicates/interpolation/InterpolationManager.java
+END
+CounterexampleTraceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/8452/trunk/src/org/sosy_lab/cpachecker/util/predicates/interpolation/CounterexampleTraceInfo.java
+END
+SeparateInterpolatingProverEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/util/predicates/interpolation/SeparateInterpolatingProverEnvironment.java
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/10440/trunk
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/8727/trunk/README.txt
+END
+gae-build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/10349/trunk/gae-build.xml
+END
+NEWS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/10375/trunk/NEWS.txt
+END
+License_Apache-2.0.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/3113/trunk/License_Apache-2.0.txt
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/10017/trunk/.gitignore
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/10216/trunk/build.xml
+END
+README - App Engine.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10398/trunk/README%20-%20App%20Engine.txt
+END
+Copyright.txt
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/5342/trunk/Copyright.txt
+END
+Authors.txt
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/9443/trunk/Authors.txt
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/7026/trunk/.project
+END
+.pydevproject
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/3113/trunk/.pydevproject
+END
+INSTALL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/9857/trunk/INSTALL.txt
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/10360/trunk/.classpath
+END

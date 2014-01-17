@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/7464/trunk/src/org/sosy_lab/cpachecker/cpa/ldd
+END
+Variable.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/5639/trunk/src/org/sosy_lab/cpachecker/cpa/ldd/Variable.java
+END
+LDDAbstractionCPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/7464/trunk/src/org/sosy_lab/cpachecker/cpa/ldd/LDDAbstractionCPA.java
+END
+LDDAbstractState.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6170/trunk/src/org/sosy_lab/cpachecker/cpa/ldd/LDDAbstractState.java
+END
+LDDAbstractDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6174/trunk/src/org/sosy_lab/cpachecker/cpa/ldd/LDDAbstractDomain.java
+END
+LDDAbstractionTransferRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/7055/trunk/src/org/sosy_lab/cpachecker/cpa/ldd/LDDAbstractionTransferRelation.java
+END

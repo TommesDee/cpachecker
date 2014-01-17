@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/for2
+END
+for2.i
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/for2/for2.i
+END
+test.desc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/for2/test.desc
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7682/trunk/test/programs/parser/cbmc/for2/main.c
+END

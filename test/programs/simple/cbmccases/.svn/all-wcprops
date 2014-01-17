@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6166/trunk/test/programs/simple/cbmccases
+END
+test3.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5551/trunk/test/programs/simple/cbmccases/test3.c
+END
+test4.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5551/trunk/test/programs/simple/cbmccases/test4.c
+END
+test5.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/5551/trunk/test/programs/simple/cbmccases/test5.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6166/trunk/test/programs/simple/cbmccases/README
+END

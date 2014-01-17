@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/5551/trunk/test/original-sources/VerisecSuite/MadWiFi/progs
+END
+MADWiFiCVE-2006-6332encode_ie_no_sprintf_ok.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/5551/trunk/test/original-sources/VerisecSuite/MadWiFi/progs/MADWiFiCVE-2006-6332encode_ie_no_sprintf_ok.c
+END
+MADWiFiCVE-2006-6332encode_ie_no_sprintf_bad.c
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/5551/trunk/test/original-sources/VerisecSuite/MadWiFi/progs/MADWiFiCVE-2006-6332encode_ie_no_sprintf_bad.c
+END
+MADWiFiCVE-2006-6332encode_ie_interproc_ok.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/5551/trunk/test/original-sources/VerisecSuite/MadWiFi/progs/MADWiFiCVE-2006-6332encode_ie_interproc_ok.c
+END
+MADWiFiCVE-2006-6332encode_ie_interproc_bad.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/5551/trunk/test/original-sources/VerisecSuite/MadWiFi/progs/MADWiFiCVE-2006-6332encode_ie_interproc_bad.c
+END

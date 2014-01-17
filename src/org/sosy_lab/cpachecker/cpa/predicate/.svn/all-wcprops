@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10409/trunk/src/org/sosy_lab/cpachecker/cpa/predicate
+END
+PredicateRefiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/PredicateRefiner.java
+END
+ABMPredicateCPAStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/7344/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/ABMPredicateCPAStatistics.java
+END
+PredicatePrecision.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/7866/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/PredicatePrecision.java
+END
+InvariantRefiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/8618/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/InvariantRefiner.java
+END
+ABMBlockOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/7915/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/ABMBlockOperator.java
+END
+PredicateMergeOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9304/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/PredicateMergeOperator.java
+END
+PredicateStaticRefiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10285/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/PredicateStaticRefiner.java
+END
+PredicateCPAStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10409/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/PredicateCPAStatistics.java
+END
+ImpactRefiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/ImpactRefiner.java
+END
+PredicateTransferRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/9335/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/PredicateTransferRelation.java
+END
+RefinementStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/RefinementStrategy.java
+END
+ImpactGlobalRefiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/ImpactGlobalRefiner.java
+END
+PredicateAbstractState.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9859/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/PredicateAbstractState.java
+END
+PredicatePrecisionBootstrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10285/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/PredicatePrecisionBootstrapper.java
+END
+PredicatePrecisionAdjustment.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9307/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/PredicatePrecisionAdjustment.java
+END
+PredicateAbstraction.dia
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/3636/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/PredicateAbstraction.dia
+END
+PredicateAbstractionRefinementStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/10330/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/PredicateAbstractionRefinementStrategy.java
+END
+ABMPredicateCPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/ABMPredicateCPA.java
+END
+PredicateCPARefiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10337/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/PredicateCPARefiner.java
+END
+ImpactUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9107/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/ImpactUtility.java
+END
+ImpactRefinementStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/ImpactRefinementStrategy.java
+END
+ABMPredicateReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9304/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/ABMPredicateReducer.java
+END
+PredicateAbstractionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10285/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/PredicateAbstractionManager.java
+END
+PredicateAbstractDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/PredicateAbstractDomain.java
+END
+PredicateStopOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/7042/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/PredicateStopOperator.java
+END
+PredicateCPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9304/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/PredicateCPA.java
+END
+PredicateForcedCovering.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/PredicateForcedCovering.java
+END
+ABMPredicateRefiner.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/8846/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/ABMPredicateRefiner.java
+END
+BlockFormulaSlicer.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/8466/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/BlockFormulaSlicer.java
+END
+Refinement.dia
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/7343/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/Refinement.dia
+END
+BlockOperator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9803/trunk/src/org/sosy_lab/cpachecker/cpa/predicate/BlockOperator.java
+END

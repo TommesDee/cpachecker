@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10414/trunk/src/org/sosy_lab/cpachecker/cpa/explicit
+END
+ExplicitCPA.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10375/trunk/src/org/sosy_lab/cpachecker/cpa/explicit/ExplicitCPA.java
+END
+ExplicitState.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10043/trunk/src/org/sosy_lab/cpachecker/cpa/explicit/ExplicitState.java
+END
+AbstractExplicitExpressionValueVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/9834/trunk/src/org/sosy_lab/cpachecker/cpa/explicit/AbstractExplicitExpressionValueVisitor.java
+END
+ExplicitTransferRelation.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10414/trunk/src/org/sosy_lab/cpachecker/cpa/explicit/ExplicitTransferRelation.java
+END
+ExplicitPrecision.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10375/trunk/src/org/sosy_lab/cpachecker/cpa/explicit/ExplicitPrecision.java
+END
+ExplicitExpressionValueVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/9810/trunk/src/org/sosy_lab/cpachecker/cpa/explicit/ExplicitExpressionValueVisitor.java
+END
+ExplicitDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/7607/trunk/src/org/sosy_lab/cpachecker/cpa/explicit/ExplicitDomain.java
+END
+ExplicitReducer.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/8351/trunk/src/org/sosy_lab/cpachecker/cpa/explicit/ExplicitReducer.java
+END
+ExpressionValueVisitorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/8691/trunk/src/org/sosy_lab/cpachecker/cpa/explicit/ExpressionValueVisitorTest.java
+END
+ComponentAwareExplicitPrecisionAdjustment.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/10385/trunk/src/org/sosy_lab/cpachecker/cpa/explicit/ComponentAwareExplicitPrecisionAdjustment.java
+END
+ExplicitTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10409/trunk/src/org/sosy_lab/cpachecker/cpa/explicit/ExplicitTest.java
+END
+SMGExplicitCommunicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10414/trunk/src/org/sosy_lab/cpachecker/cpa/explicit/SMGExplicitCommunicator.java
+END
+ExplicitCPAStatistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10285/trunk/src/org/sosy_lab/cpachecker/cpa/explicit/ExplicitCPAStatistics.java
+END

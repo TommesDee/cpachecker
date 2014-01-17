@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/8403/trunk/src/org/sosy_lab/cpachecker/util/invariants/balancer/prh12
+END
+PivotRowHandler2.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/8403/trunk/src/org/sosy_lab/cpachecker/util/invariants/balancer/prh12/PivotRowHandler2.java
+END
+UsableColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/7618/trunk/src/org/sosy_lab/cpachecker/util/invariants/balancer/prh12/UsableColumn.java
+END
+OptionManager2.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/7624/trunk/src/org/sosy_lab/cpachecker/util/invariants/balancer/prh12/OptionManager2.java
+END
+AugmentationColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/7621/trunk/src/org/sosy_lab/cpachecker/util/invariants/balancer/prh12/AugmentationColumn.java
+END
+PivotRow2.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/7055/trunk/src/org/sosy_lab/cpachecker/util/invariants/balancer/prh12/PivotRow2.java
+END
+OptionTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/7621/trunk/src/org/sosy_lab/cpachecker/util/invariants/balancer/prh12/OptionTable.java
+END
+OptionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/7621/trunk/src/org/sosy_lab/cpachecker/util/invariants/balancer/prh12/OptionManager.java
+END
+PivotRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/7055/trunk/src/org/sosy_lab/cpachecker/util/invariants/balancer/prh12/PivotRow.java
+END
+ColumnChoiceFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/7621/trunk/src/org/sosy_lab/cpachecker/util/invariants/balancer/prh12/ColumnChoiceFrame.java
+END
+PivotRowHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/8403/trunk/src/org/sosy_lab/cpachecker/util/invariants/balancer/prh12/PivotRowHandler.java
+END
+ColumnChoiceStack.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/7055/trunk/src/org/sosy_lab/cpachecker/util/invariants/balancer/prh12/ColumnChoiceStack.java
+END

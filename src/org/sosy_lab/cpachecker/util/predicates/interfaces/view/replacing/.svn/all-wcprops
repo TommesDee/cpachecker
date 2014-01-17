@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9274/trunk/src/org/sosy_lab/cpachecker/util/predicates/interfaces/view/replacing
+END
+ReplaceHelperBooleanFormulaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/8789/trunk/src/org/sosy_lab/cpachecker/util/predicates/interfaces/view/replacing/ReplaceHelperBooleanFormulaManager.java
+END
+WrappingFormula.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/8613/trunk/src/org/sosy_lab/cpachecker/util/predicates/interfaces/view/replacing/WrappingFormula.java
+END
+ReplacingFormulaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/8579/trunk/src/org/sosy_lab/cpachecker/util/predicates/interfaces/view/replacing/ReplacingFormulaManager.java
+END
+ReplaceBitvectorWithRationalAndFunctionTheory.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/9274/trunk/src/org/sosy_lab/cpachecker/util/predicates/interfaces/view/replacing/ReplaceBitvectorWithRationalAndFunctionTheory.java
+END
+ReplaceHelperFunctionFormulaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/7621/trunk/src/org/sosy_lab/cpachecker/util/predicates/interfaces/view/replacing/ReplaceHelperFunctionFormulaManager.java
+END
+ReplaceUnsafeFormulaManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/7621/trunk/src/org/sosy_lab/cpachecker/util/predicates/interfaces/view/replacing/ReplaceUnsafeFormulaManager.java
+END

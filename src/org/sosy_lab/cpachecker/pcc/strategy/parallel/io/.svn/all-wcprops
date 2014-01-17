@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9391/trunk/src/org/sosy_lab/cpachecker/pcc/strategy/parallel/io
+END
+AbstractParallelReadingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/9391/trunk/src/org/sosy_lab/cpachecker/pcc/strategy/parallel/io/AbstractParallelReadingStrategy.java
+END
+RandomBalancedGraphPartitioner.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/9391/trunk/src/org/sosy_lab/cpachecker/pcc/strategy/parallel/io/RandomBalancedGraphPartitioner.java
+END

@@ -18,3 +18,9 @@ int main(int argc,char* argv[])
 
 	return 0;
 }
+
+/* Beispielrechnung:
+a0=0 & i0=0 & c0=0 & i1=i0+1 & a1=a0+1 (& ax-ix=a1-i1)
+i1>=10 & c1=i1 & a1<10 (& ax-ix=a1-i1)
+=> a1-i1=0
+*/

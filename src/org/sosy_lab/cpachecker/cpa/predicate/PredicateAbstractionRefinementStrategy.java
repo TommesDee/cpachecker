@@ -299,6 +299,8 @@ public class PredicateAbstractionRefinementStrategy extends RefinementStrategy {
 
     BooleanFormula interpolant = pInterpolant;
 
+    //System.out.println("##INTERPOLANT##");
+    //System.out.println(interpolant.toString());
     FormulaMeasures itpBeforeSimple = formulaMeasuring.measure(interpolant);
 
     if (bfmgr.isTrue(interpolant)) {

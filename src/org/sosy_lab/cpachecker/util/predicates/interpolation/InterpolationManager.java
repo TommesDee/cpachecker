@@ -112,7 +112,7 @@ public final class InterpolationManager {
     }
   }
 
-
+  private final InterpolationFormelEnhancer ife;
   private final LogManager logger;
   private final ShutdownNotifier shutdownNotifier;
   private final FormulaManagerView fmgr;
@@ -189,6 +189,7 @@ public final class InterpolationManager {
     pmgr = pPmgr;
     solver = pSolver;
     factory = pFmgrFactory;
+    ife = new InterpolationFormelEnhancer(fmgr,factory);
 
     if (itpTimeLimit == 0) {
       executor = null;
@@ -285,6 +286,8 @@ public final class InterpolationManager {
       if (fmgr.useBitwiseAxioms()) {
         addBitwiseAxioms(f);
       }
+
+      ife.enhance(f);
 
       f = Collections.unmodifiableList(f);
       logger.log(Level.ALL, "Counterexample trace formulas:", f);

@@ -174,7 +174,6 @@ public class PredicateCPARefiner extends AbstractARGBasedRefiner implements Stat
 
     Set<ARGState> elementsOnPath = ARGUtils.getAllStatesOnPathsTo(allStatesTrace.getLast().getFirst());
 
-
     boolean branchingOccurred = true;
     if (elementsOnPath.size() == allStatesTrace.size()) {
       // No branches/merges in path, it is precise.

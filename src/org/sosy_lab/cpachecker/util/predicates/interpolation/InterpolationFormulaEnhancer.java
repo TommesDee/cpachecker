@@ -28,9 +28,11 @@ import java.util.BitSet;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 import java.util.Stack;
 
 import org.sosy_lab.common.Pair;
+import org.sosy_lab.cpachecker.core.ShutdownNotifier;
 import org.sosy_lab.cpachecker.util.predicates.FormulaManagerFactory;
 import org.sosy_lab.cpachecker.util.predicates.interfaces.BooleanFormula;
 import org.sosy_lab.cpachecker.util.predicates.interfaces.Formula;
@@ -41,72 +43,153 @@ import org.sosy_lab.cpachecker.util.predicates.interfaces.UnsafeFormulaManager;
 import org.sosy_lab.cpachecker.util.predicates.interfaces.view.BooleanFormulaManagerView;
 import org.sosy_lab.cpachecker.util.predicates.interfaces.view.FormulaManagerView;
 
-//TODO: edit the end of the InterpolationManager.buildCounterexampleTrace0 to ensure a variable of type A' is never returned
 
-public class InterpolationFormelEnhancer
+public class InterpolationFormulaEnhancer
 {
   private BooleanFormulaManagerView bfmgr;
   private FormulaManagerView fmv;
   private FormulaManagerFactory factory;
+  private UnsafeFormulaManager ufm;
+  private ShutdownNotifier shutdownNotifier;
 
-  public InterpolationFormelEnhancer(FormulaManagerView pFmgr,FormulaManagerFactory fmf)
+  public InterpolationFormulaEnhancer(ShutdownNotifier pShutdownNotifier, FormulaManagerView pFmgr,FormulaManagerFactory fmf)
   {
     fmv = pFmgr;
     bfmgr = pFmgr.getBooleanFormulaManager();
     factory = fmf;
+    ufm = fmv.getUnsafeFormulaManager();
+    shutdownNotifier = pShutdownNotifier;
   }
 
   public void enhance(List<BooleanFormula> orderedFormulas)
   {
-    int ap = getAbstractionPoint(orderedFormulas);
-    List<Pair<Formula,Formula>> replacements = replaceCommonVariables(orderedFormulas,ap);
-    Formula f = orderedFormulas.get(ap);
+    List<Integer> abstractionPoints = getAbstractionPoints(orderedFormulas);
 
-
-    getBestLatticeElement(orderedFormulas,replacements);
-
-
-    int a = 0; int i=0;
-    for(int k=0;k<replacements.size();k++) {
-      Formula t = replacements.get(k).getFirst();
-      if(fmv.getUnsafeFormulaManager().getName(t).indexOf("a@")>=0) {
-        a = k;
+    for(int ap : abstractionPoints) {
+      System.out.println("AP: "+ap);
+      if(shutdownNotifier.shouldShutdown()) {
+        return;
       }
-      if(fmv.getUnsafeFormulaManager().getName(t).indexOf("i@")>=0) {
-        i = k;
-      }
+      List<Pair<Formula,Formula>> replacements = replaceCommonVariables(orderedFormulas,ap);
+      BooleanFormula abstraction = getBestLatticeElement(orderedFormulas,replacements);
+      abstraction = bfmgr.and(abstraction, orderedFormulas.get(ap));
+      orderedFormulas.set(ap, abstraction);
     }
-    RationalFormula fa1 = (RationalFormula) replacements.get(a).getFirst();
-    RationalFormula fa2 = (RationalFormula) replacements.get(a).getSecond();
-    RationalFormula fi1 = (RationalFormula) replacements.get(i).getFirst();
-    RationalFormula fi2 = (RationalFormula) replacements.get(i).getSecond();
-    RationalFormula rf1 = fmv.getRationalFormulaManager().subtract(fa1, fi1);
-    RationalFormula rf2 = fmv.getRationalFormulaManager().subtract(fa2, fi2);
-    BooleanFormula r = fmv.getRationalFormulaManager().equal(rf1, rf2);
 
-    f = bfmgr.and((BooleanFormula) f,r);
-    orderedFormulas.set(ap, (BooleanFormula) f);
-
+    //TODO: Debug message, delete
     System.out.println("##############");
     for(int s=0;s<orderedFormulas.size();s++) {
       System.out.println(orderedFormulas.get(s).toString());
     }
   }
 
+  public List<BooleanFormula> clean(List<BooleanFormula> orderedFormulas)
+  {
+    List<BooleanFormula> result = new ArrayList<>();
+    for(BooleanFormula f : orderedFormulas) {
+      result.add(clean(f));
+    }
+    return result;
+  }
+
+  public BooleanFormula clean(BooleanFormula f)
+  {
+    Set<String> names = fmv.extractVariables(f);
+
+    Map<String,String> replacements = new HashMap<>();
+
+    for(String name : names) {
+      if(name.charAt(name.length()-1)=='\'') {
+        String repl = name;
+        while(name.charAt(name.length()-1)=='\'') {
+          name = name.substring(0,name.length()-1);
+        }
+        replacements.put(repl, name);
+      }
+    }
+
+    if(replacements.size()==0) {
+      return f;
+    }
+
+    List<Pair<Formula,Formula>> dummy = new ArrayList<>();
+    return ufm.typeFormula(FormulaType.BooleanType, renameRek(f,replacements,dummy));
+  }
+
   private BooleanFormula getBestLatticeElement(List<BooleanFormula> orderedFormulas, List<Pair<Formula,Formula>> variablePairs)
   {
     List<BooleanFormula> topElements = getBestLatticeElements(orderedFormulas,variablePairs);
 
+    BooleanFormula bestFit = null;
+    int cost = Integer.MAX_VALUE;
+    for(BooleanFormula f : topElements) {
+      int calculatedCost = formulaCost(f);
+      if(calculatedCost<cost) {
+        cost = calculatedCost;
+        bestFit = f;
+      }
+    }
+
+    return bestFit;
+  }
+
+  private int formulaCost(BooleanFormula f)
+  {
     //TODO: make decision based on type of variables
 
-    //TODO: delete debug stuff here
-    System.out.println("xxxxxxxxxxxxxxxx");
-    for(BooleanFormula f : topElements) {
-      System.out.println(f.toString());
+    /* The price for a formula are defined as follows: i=loop variable, x=other variable
+     * i > i1+-i2 > x > x+-i > x1+-x2
+     * 5      4     3     2       1
+     * price = summ of subprices (as defined in "exploring interpolants")
+     */
+    List<Formula> formulas = new ArrayList<>();
+    if(!bfmgr.isAnd(f)) {
+      formulas.add(f);
+    } else {
+      Stack<BooleanFormula> stack = new Stack<>();
+      stack.push(f);
+      while(!stack.isEmpty()) {
+        BooleanFormula formula = stack.pop();
+        if(bfmgr.isAnd(formula)) {
+          stack.push(ufm.typeFormula(FormulaType.BooleanType,ufm.getArg(formula, 0)));
+          stack.push(ufm.typeFormula(FormulaType.BooleanType,ufm.getArg(formula, 1)));
+        } else {
+          formulas.add(formula);
+        }
+      }
     }
-    System.out.println("xxxxxxx");
 
-    return null;
+    int result = 0;
+    for(Formula formula : formulas) {
+      formula = ufm.getArg(formula, 0);
+
+      if(ufm.getArity(formula)<2) {
+        // x=x' type
+        if(ufm.getName(formula).split("@")[0]=="i") {
+          result += 5;
+        } else {
+          result += 3;
+        }
+      } else {
+        //x+-y type
+        List<Formula> param = extractVariables(formula);
+        if(ufm.getName(param.get(1)).split("@")[0]=="i") {
+          if(ufm.getName(param.get(2)).split("@")[0]=="i") {
+            result += 4;
+          } else {
+            result += 2;
+          }
+        } else {
+          if(ufm.getName(param.get(2)).split("@")[0]=="i") {
+            result += 2;
+          } else {
+            result += 1;
+          }
+        }
+      }
+    }
+
+    return result;
   }
 
   private List<BooleanFormula> getBestLatticeElements(List<BooleanFormula> orderedFormulas, List<Pair<Formula,Formula>> variablePairs)
@@ -127,6 +210,12 @@ public class InterpolationFormelEnhancer
     stack.push(all);
 
     while(!stack.empty()) {
+      if(shutdownNotifier.shouldShutdown()) {
+        // return a valid element even on shutdown, to not break anything during the shutdown.
+        result = new ArrayList<>();
+        result.add(formulaFromSet(templates,all));
+        return result;
+      }
       BitSet elem = stack.pop();
 
       // test if a better element exists already
@@ -205,12 +294,14 @@ public class InterpolationFormelEnhancer
   {
     List<BooleanFormula> result = new ArrayList<>();
 
+    // important: "real" variable has to come first, e.g. x=x' is allowed, x'=x is not!
+
     // equivalences: x=x'
     for(Pair<Formula,Formula> p : variablePairs) {
       result.add(fmv.makeEqual(p.getFirst(), p.getSecond()));
     }
 
-    // differences: x-y=x'-y'
+    // differences and combinations: x-y=x'-y' and x+y=x'+y'
     for(int i=0;i<variablePairs.size();i++) {
       for(int k=i+1;k<variablePairs.size();k++) {
         Formula fx1 = variablePairs.get(i).getFirst();
@@ -222,6 +313,9 @@ public class InterpolationFormelEnhancer
         Formula fy2 = variablePairs.get(k).getSecond();
         Formula eq1 = fmv.makeMinus(fx1, fy1);
         Formula eq2 = fmv.makeMinus(fx2, fy2);
+        result.add(fmv.makeEqual(eq1, eq2));
+        eq1 = fmv.makePlus(fx1, fy1);
+        eq2 = fmv.makePlus(fx2, fy2);
         result.add(fmv.makeEqual(eq1, eq2));
       }
     }
@@ -242,7 +336,7 @@ public class InterpolationFormelEnhancer
     for(int i=0;i<=abstractionPoint;i++) {
       BooleanFormula f = orderedFormulas.get(i);
 
-      f = fmv.getUnsafeFormulaManager().typeFormula(FormulaType.BooleanType, renameRek(f,replacementList,result));
+      f = ufm.typeFormula(FormulaType.BooleanType, renameRek(f,replacementList,result));
       orderedFormulas.set(i, f);
     }
 
@@ -251,7 +345,6 @@ public class InterpolationFormelEnhancer
 
   private Formula renameRek(Formula f, Map<String,String> replacementList, List<Pair<Formula,Formula>> replacedVariables)
   {
-    UnsafeFormulaManager ufm = fmv.getUnsafeFormulaManager();
     if(ufm.isVariable(f)) {
       String newName = replacementList.get(ufm.getName(f));
       if(newName==null) {
@@ -259,7 +352,6 @@ public class InterpolationFormelEnhancer
       }
       Formula replacement = ufm.replaceName(f, newName);
 
-      //TODO: UNSAFE! Doesn't have to be rational
       Pair<Formula,Formula> p = Pair.of((Formula)ufm.typeFormula(FormulaType.RationalType, f),
                                         (Formula)ufm.typeFormula(FormulaType.RationalType,replacement));
       if(!replacedVariables.contains(p)) {
@@ -299,29 +391,99 @@ public class InterpolationFormelEnhancer
     return result;
   }
 
-  private int getAbstractionPoint(List<BooleanFormula> orderedFormulas)
-  {
-    //TODO: detect loop bodies here
-    return orderedFormulas.size()-2;  // two formulas => intercept at pos 0
-  }
-
-  private Formula varFromString(BooleanFormula f, String name, FormulaType<?> type)
+  private List<Formula> extractVariables(Formula f)
   {
     Stack<Formula> stack = new Stack<>();
     stack.push(f);
-
-    UnsafeFormulaManager ufm = fmv.getUnsafeFormulaManager();
+    List<Formula> result = new ArrayList<>();
 
     while(!stack.isEmpty()) {
-      Formula curForm = stack.pop();
-      if(ufm.isVariable(curForm) && ufm.getName(curForm).equals(name)) {
-        return ufm.typeFormula(type, curForm);
-      }
-      for(int i=0;i<ufm.getArity(curForm);i++) {
-        stack.push(ufm.getArg(curForm,i));
+      Formula formula = stack.pop();
+      if(ufm.isVariable(formula) || ufm.isUF(formula)) {
+        if(!result.contains(formula)) {
+          result.add(formula);
+        }
+      } else {
+        for(int i=0;i<ufm.getArity(formula);i++) {
+          stack.push(ufm.getArg(formula, i));
+        }
       }
     }
-    return null;
+
+    return result;
+  }
+
+  private List<Integer> getAbstractionPoints(List<BooleanFormula> orderedFormulas)
+  {
+    List<Integer> result = new ArrayList<>();
+
+    // only two formulas => only one abstraction point possible
+    if(orderedFormulas.size()<3) {
+      result.add(0);
+      return result;
+    }
+
+    // Strategy: Look for similar looking formulas to determine loop bodies.
+    int[] locations = new int[orderedFormulas.size()];
+    String[] simplifications = new String[orderedFormulas.size()];
+
+    for(int line=0;line<orderedFormulas.size();line++) {
+      BooleanFormula f = orderedFormulas.get(line);
+      String rep = f.toString();
+      rep = rep.replaceAll("@[0-9]+","");
+      simplifications[line] = rep;
+    }
+
+    for(int line=0;line<orderedFormulas.size();line++) {
+      String formula = simplifications[line];
+      for(int i=0;i<locations.length;i++) {
+        if(line==i || simplifications[i].equals(formula)) {
+          locations[i]++;
+        }
+      }
+    }
+
+    /* The locations for e.g. the following program should now look like this:
+     *
+     * for(...) {
+     *   code
+     *   for(...) {
+     *      code
+     *   }
+     *   code
+     * }
+     * code
+     * for(...) {
+     *
+     * }
+     * code
+     *
+     * locations:
+     * 2
+     * 4
+     * 2
+     * 1
+     * 2
+     * 1
+     *
+     * whenever the location counter gets smaller from one location to another,
+     * we are likely at the end of a loop (This is a heuristic!)
+     * => interpolate-enhance.
+     */
+
+    for(int i=1;i<locations.length;i++) {
+      if(locations[i]<locations[i-1]) {
+        result.add(i-1);
+      }
+    }
+
+    // no suitable location found => assume loop has only be ran once,
+    // use line before last line as abstraction point (heuristic)
+    if(result.size()==0) {
+      result.add(orderedFormulas.size()-2);
+    }
+
+    return result;
   }
 
   private class SATTest<T>

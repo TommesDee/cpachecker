@@ -78,15 +78,17 @@ public class InterpolationFormulaEnhancer
       }
       List<Pair<Formula,Formula>> replacements = replaceCommonVariables(orderedFormulas,ap);
       BooleanFormula abstraction = getBestLatticeElement(orderedFormulas,replacements,loopVariablePrefixes);
-      abstraction = bfmgr.and(abstraction, orderedFormulas.get(ap));
-      orderedFormulas.set(ap, abstraction);
+      if(abstraction!=null) { // null means empty subset
+        abstraction = bfmgr.and(abstraction, orderedFormulas.get(ap));
+        orderedFormulas.set(ap, abstraction);
+      }
     }
 
-    //TODO: Debug message, delete
-    System.out.println("##############");
+    // This is a debug message for demonstration purposes. Feel free to delete if you don't need it.
+    /*System.out.println("##############");
     for(int s=0;s<orderedFormulas.size();s++) {
       System.out.println(orderedFormulas.get(s).toString());
-    }
+    }*/
   }
 
   public List<BooleanFormula> clean(List<BooleanFormula> orderedFormulas)
@@ -233,6 +235,11 @@ public class InterpolationFormulaEnhancer
     List<BitSet> topElements = new ArrayList<>();
     List<BooleanFormula> result = new ArrayList<>();
     SATTest<?> tester = new SATTest<>(orderedFormulas);
+
+    // first, check if no formula is needed at all
+    if(!tester.checkFormula()) {
+      return result;
+    }
 
     BitSet all = new BitSet(templates.size());
     //all.set(0,templates.size());
@@ -547,6 +554,14 @@ public class InterpolationFormulaEnhancer
       } catch (InterruptedException e) { }
       itpProver.pop();
       return result;
+    }
+
+    public boolean checkFormula()
+    {
+      try {
+        return !itpProver.isUnsat();
+      } catch(InterruptedException e) { }
+      return false;
     }
   }
 }

@@ -183,6 +183,7 @@ public class CPAchecker {
 
       } else {
         CFA cfa = parse(programDenotation, stats);
+
         GlobalInfo.getInstance().storeCFA(cfa);
         shutdownNotifier.shutdownIfNecessary();
 

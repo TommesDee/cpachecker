@@ -25,6 +25,7 @@ package org.sosy_lab.cpachecker.util.predicates.interpolation;
 
 import java.util.ArrayList;
 import java.util.BitSet;
+import java.util.Collection;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -33,6 +34,8 @@ import java.util.Stack;
 
 import org.sosy_lab.common.Pair;
 import org.sosy_lab.cpachecker.core.ShutdownNotifier;
+import org.sosy_lab.cpachecker.util.VariableClassification;
+import org.sosy_lab.cpachecker.util.globalinfo.GlobalInfo;
 import org.sosy_lab.cpachecker.util.predicates.FormulaManagerFactory;
 import org.sosy_lab.cpachecker.util.predicates.interfaces.BooleanFormula;
 import org.sosy_lab.cpachecker.util.predicates.interfaces.Formula;
@@ -42,6 +45,8 @@ import org.sosy_lab.cpachecker.util.predicates.interfaces.RationalFormula;
 import org.sosy_lab.cpachecker.util.predicates.interfaces.UnsafeFormulaManager;
 import org.sosy_lab.cpachecker.util.predicates.interfaces.view.BooleanFormulaManagerView;
 import org.sosy_lab.cpachecker.util.predicates.interfaces.view.FormulaManagerView;
+
+import com.google.common.collect.Multimap;
 
 
 public class InterpolationFormulaEnhancer
@@ -63,15 +68,16 @@ public class InterpolationFormulaEnhancer
 
   public void enhance(List<BooleanFormula> orderedFormulas)
   {
+    List<String> loopVariablePrefixes = getLoopVariablePrefixes();
+
     List<Integer> abstractionPoints = getAbstractionPoints(orderedFormulas);
 
     for(int ap : abstractionPoints) {
-      System.out.println("AP: "+ap);
       if(shutdownNotifier.shouldShutdown()) {
         return;
       }
       List<Pair<Formula,Formula>> replacements = replaceCommonVariables(orderedFormulas,ap);
-      BooleanFormula abstraction = getBestLatticeElement(orderedFormulas,replacements);
+      BooleanFormula abstraction = getBestLatticeElement(orderedFormulas,replacements,loopVariablePrefixes);
       abstraction = bfmgr.and(abstraction, orderedFormulas.get(ap));
       orderedFormulas.set(ap, abstraction);
     }
@@ -116,14 +122,33 @@ public class InterpolationFormulaEnhancer
     return ufm.typeFormula(FormulaType.BooleanType, renameRek(f,replacements,dummy));
   }
 
-  private BooleanFormula getBestLatticeElement(List<BooleanFormula> orderedFormulas, List<Pair<Formula,Formula>> variablePairs)
+  private List<String> getLoopVariablePrefixes()
+  {
+    List<String> result = new ArrayList<>();
+
+    VariableClassification vc = GlobalInfo.getInstance().getCFAInfo().getVariableClassification();
+    Multimap<String,String> loopExitCondVars = vc.getLoopExitConditionVariables();
+    Map<String,Collection<String>> map = loopExitCondVars.asMap();
+    for(String function : map.keySet()) {
+      Collection<String> variables = map.get(function);
+      for(String variable : variables) {
+        result.add(function+"::"+variable);
+      }
+    }
+
+    return result;
+  }
+
+  private BooleanFormula getBestLatticeElement(List<BooleanFormula> orderedFormulas,
+                                          List<Pair<Formula,Formula>> variablePairs,
+                                          List<String> loopVariablePrefixes)
   {
     List<BooleanFormula> topElements = getBestLatticeElements(orderedFormulas,variablePairs);
 
     BooleanFormula bestFit = null;
     int cost = Integer.MAX_VALUE;
     for(BooleanFormula f : topElements) {
-      int calculatedCost = formulaCost(f);
+      int calculatedCost = formulaCost(f,loopVariablePrefixes);
       if(calculatedCost<cost) {
         cost = calculatedCost;
         bestFit = f;
@@ -133,10 +158,8 @@ public class InterpolationFormulaEnhancer
     return bestFit;
   }
 
-  private int formulaCost(BooleanFormula f)
+  private int formulaCost(BooleanFormula f,List<String> loopVariablePrefixes)
   {
-    //TODO: make decision based on type of variables
-
     /* The price for a formula are defined as follows: i=loop variable, x=other variable
      * i > i1+-i2 > x > x+-i > x1+-x2
      * 5      4     3     2       1
@@ -165,7 +188,7 @@ public class InterpolationFormulaEnhancer
 
       if(ufm.getArity(formula)<2) {
         // x=x' type
-        if(ufm.getName(formula).split("@")[0]=="i") {
+        if(isLoopVariable(formula,loopVariablePrefixes)) {
           result += 5;
         } else {
           result += 3;
@@ -173,14 +196,14 @@ public class InterpolationFormulaEnhancer
       } else {
         //x+-y type
         List<Formula> param = extractVariables(formula);
-        if(ufm.getName(param.get(1)).split("@")[0]=="i") {
-          if(ufm.getName(param.get(2)).split("@")[0]=="i") {
+        if(isLoopVariable(param.get(1),loopVariablePrefixes)) {
+          if(isLoopVariable(param.get(2),loopVariablePrefixes)) {
             result += 4;
           } else {
             result += 2;
           }
         } else {
-          if(ufm.getName(param.get(2)).split("@")[0]=="i") {
+          if(isLoopVariable(param.get(2),loopVariablePrefixes)) {
             result += 2;
           } else {
             result += 1;
@@ -190,6 +213,17 @@ public class InterpolationFormulaEnhancer
     }
 
     return result;
+  }
+
+  private boolean isLoopVariable(Formula variable, List<String> loopVariablePrefixes)
+  {
+    String name = ufm.getName(variable).split("@")[0];
+    for(String loopVar : loopVariablePrefixes) {
+      if(loopVar.equals(name)) {
+        return true;
+      }
+    }
+    return false;
   }
 
   private List<BooleanFormula> getBestLatticeElements(List<BooleanFormula> orderedFormulas, List<Pair<Formula,Formula>> variablePairs)

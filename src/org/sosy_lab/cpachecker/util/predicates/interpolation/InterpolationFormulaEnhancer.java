@@ -484,30 +484,7 @@ public class InterpolationFormulaEnhancer
       }
     }
 
-    /* The locations for e.g. the following program should now look like this:
-     *
-     * for(...) {
-     *   code
-     *   for(...) {
-     *      code
-     *   }
-     *   code
-     * }
-     * code
-     * for(...) {
-     *
-     * }
-     * code
-     *
-     * locations:
-     * 2
-     * 4
-     * 2
-     * 1
-     * 2
-     * 1
-     *
-     * whenever the location counter gets smaller from one location to another,
+    /* whenever the location counter gets smaller from one location to another,
      * we are likely at the end of a loop (This is a heuristic!)
      * => interpolate-enhance.
      */
